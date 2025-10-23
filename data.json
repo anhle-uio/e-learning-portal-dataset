@@ -14,7 +14,7 @@
   },
   {
     "id": 2,
-    "title": "Akuttmedisin test2",
+    "title": "Akuttmedisin",
     "submenuTitle": "Akuttmedisin",
     "layout": "default",
     "content": [
@@ -997,7 +997,7 @@
       {
         "title": "Øyeportalen",
         "description": "\nLæringsutbytte: Bidrag til å undersøke, beskrive, diagnostisere og behandle øyesykdommer.\nPedagogikk: Supplement til lærebøker, forelesninger, klinikker, kurs i undersøkelsesteknikk og kliniske smågrupper. Ressursene er tilpasset pensum i øyesykdommer. Det er lagt vekt på innlæring av ord og begreper, presentasjon av kliniske funn, systematisk undersøkelsesteknikk inkludert video av de vanlige praktiske prosedyrer. Virtuelle pasienter skal bedre klinisk resonnement og øke innsikt.\nBrukes i: Ressursene er tilpasset medisinstudiets 7. semester (modul 4) ved Universitetet i Oslo. Kan også benyttes av norske studenter i utlandet, utenlandske leger som vil arbeide i Norge eller annet helsepersonell.\nForkunnskap: Medisinsk basalkunnskap.\nE-læringsressursen er utviklet ved:Universitetet i Oslo\n",
-        "email": "j.k.slettedal@medisin.uio.no",
+        "email": "e-laring@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/oyesykdommer/index.shtml"
       }
     ]
