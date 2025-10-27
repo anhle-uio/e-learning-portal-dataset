@@ -931,14 +931,7 @@
     "title": "Samfunnsmedisin",
     "submenuTitle": "Samfunnsmedisin",
     "layout": "default",
-    "content": [
-      {
-        "title": "Samfunnsmedisin i modul 1",
-        "description": "\nDenne e-læringen er særlig relevant for blokk 1 i modul 1, og er innom mange (men ikke alle) læringsmålene for samfunnsmedisin i modul 1. Vi mener den også er relevant for medisinstudenter på alle moduler.\nE-læringsressursen er utviklet ved:Universitetet i Oslo\n",
-        "email": "j.t.geitung@medisin.uio.no",
-        "link": "https://studmed.uio.no/elaring/fag/samfunnsmedisin/modul1/index.shtml"
-      }
-    ]
+    "content": []
   },
   {
     "id": 50,
