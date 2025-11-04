@@ -810,10 +810,46 @@
         "link": "https://studmed.uio.no/journalwiki/"
       },
       {
+        "title": "Thyreoidea E-læringsprogram",
+        "description": "\nDette e-læringsprogrammet samler kunnskap om thyreoidea på ett sted og lenker stoff fra basalmedisinske, parakliniske og kliniske fag sammen. Det er ment som et supplement til ordinær undervisning og lærebøker, og til repetisjon.\nLæringsutbytte: Kurset gir en helhetlig oversikt over thyreoidea med utgangspunkt i læringsutbyttebeskrivelsene fra de berørte fagområdene og modulene. Den skal også bidra til at studentene lærer riktig undersøkelsesteknikk av thyreoidea og regionale lymfeknuter.\nPedagogikk: Ressursen benytter tekst, video, illustrasjoner, animasjoner, interaktive bilder, virtuell mikroskopi, refleksjonsspørsmål, interaktive kasuistikker («virtuelle pasienter») og quiz.\nBrukes i: Undervisning av medisinstudenter ved Universitetet i Oslo. Kan også benyttes av norske studenter ved andre universiteter.\nE-læringsprogrammet bygger på en eldre ressurs utarbeidet av to medisinstudenter sammen med Jens Petter Berg og Ingrid Norheim. Det nye programmet er laget i samarbeid med faglærere og e-læringsseksjonen i perioden 2020-2021. Professor Tore Julsrud Berg er faglig ansvarlig for prosjektet.\nE-læringsressursen er utviklet ved:Universitetet i Oslo\n",
+        "email": "e-laring@medisin.uio.no",
+        "link": "https://studmed.uio.no/elaring/fag/endokrinologi/thyreoidea/index.shtml"
+      },
+      {
         "title": "Thyreoidea undersøkelsevideo",
         "description": "\nEn video av en undersøkelse av Thyreoidea og lymfeknuter på halsen\n",
         "email": "elaring-thyreoidea@medisin.uio.no",
         "link": "https://uio.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=438ea22e-a692-466a-8728-b1fe0098e92d"
+      },
+      {
+        "title": "Klinisk undersøkelse",
+        "description": "\nTekst: Dette er en video om basal propedeutikk og er et supplement til undervisningen.",
+        "email": "knut.lundin@medisin.uio.no",
+        "link": "https://uio.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx?folderID=edc8e5eb-8999-4bba-845e-b2e4008c92b9"
+      },
+      {
+        "title": "Undersøkelse av abdomen",
+        "description": "\nTekst: Dette er to videoer om undersøkelse av abdomen og er et supplement til undervisningen.",
+        "email": "knut.lundin@medisin.uio.no",
+        "link": "https://uio.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx?folderID=216d4787-d082-4854-9f19-b2e40083bd0b"
+      },
+      {
+        "title": "Undersøkelse av lungene",
+        "description": "\nTekst: Dette er en video om undersøkelse av lungene og er et supplement til undervisningen.",
+        "email": "knut.lundin@medisin.uio.no",
+        "link": "https://uio.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx?folderID=663fb800-cb5c-4337-8096-b2e400840e75"
+      },
+      {
+        "title": "Undersøkelse av brystene",
+        "description": "\nTekst: Dette er en video om undersøkelse av bryst og er et supplement til undervisningen.",
+        "email": "knut.lundin@medisin.uio.no",
+        "link": "https://uio.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=8fc32ee4-6956-411f-8dfe-b2f901027edd"
+      },
+      {
+        "title": "Øyeundersøkelser",
+        "description": "\nTekst: Dette er en samling videoer som viser undersøkelse av øyet og er et supplement til undervisningen.",
+        "email": "knut.lundin@medisin.uio.no",
+        "link": "https://uio.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx?folderID=77c6f649-57ff-4b29-95d5-b2d8007597aa"
       }
     ]
   },
