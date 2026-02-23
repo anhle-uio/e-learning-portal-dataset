@@ -1,12 +1,12 @@
 [
   {
     "id": 1,
-    "title": "E-Learning for Health Education",
+    "title": "Digital resources for Health Education",
     "submenuTitle": "Introduction",
     "layout": "default",
     "content": [
       {
-        "title": "E-Learning for Health Education",
+        "title": "Digital resources for Health Education",
         "description": "\nWelcome to the e-learning portal! The e-learning portal is a collection of old and new e-learning resources for health education at the University of Oslo.\nYou will find an overview of all e-learning resources in the menu on the left. If you would like to participate in, or have suggestions for, an e-learning project,\nyou can contact the Section for Health Science Education (HELP).",
         "email": "e-laring@medisin.uio.no"
       }
