@@ -1,32 +1,32 @@
 [
   {
     "id": 1,
-    "title": "E-learning for health education",
+    "title": "E-Learning for Health Education",
     "submenuTitle": "Introduction",
     "layout": "default",
     "content": [
       {
-        "title": "E-learning for health education",
-        "description": "Welcome to the e-learning portal! The e-learning portal is a collection of old and new e-learning resources for health education at the University of Oslo. You’ll find an overview of all e-learning resources in the menu on the left. If you want to participate in, or have suggestions for, an e-learning project, you can contact the Section for Health Sciences Education (HELP).",
+        "title": "E-Learning for Health Education",
+        "description": "\nWelcome to the e-learning portal! The e-learning portal is a collection of old and new e-learning resources for health education at the University of Oslo.\nYou will find an overview of all e-learning resources in the menu on the left. If you would like to participate in, or have suggestions for, an e-learning project,\nyou can contact the Section for Health Science Education (HELP).",
         "email": "e-laring@medisin.uio.no"
       }
     ]
   },
   {
     "id": 2,
-    "title": "Emergency medicine",
-    "submenuTitle": "Emergency medicine",
+    "title": "Emergency Medicine",
+    "submenuTitle": "Emergency Medicine",
     "layout": "default",
     "content": [
       {
-        "title": "Emergency medicine",
-        "description": "This subject area contains a wide range of skills and procedures used during initial examination, monitoring and stabilization of acutely ill patients. “Acute medicine” is practiced pre-hospital, in out-of-hours primary care, in hospital emergency departments, and in cases of acute deterioration for patients on wards. The procedures are therefore common to many specialties; the shared feature is the need to rapidly clarify and manage a potentially critical situation. This requires a prioritized, systematic approach and practiced skills.\n\nThe e-learning resource is built around the national requirements for practical skills for medical students in Norway adopted in 2015. Some resources will also be found under other subject areas, such as general practice, general surgery (traumatology), anesthesiology, and propedeutics.\n\nThe resources are intended as a supplement to regular teaching and textbooks.\n\nLearning outcomes: Support training and revision of the prioritized systematic approach and the practical skills necessary in the initial approach to acutely ill patients.\n\nPedagogy: Uses images, text, animations and interactive cases (“virtual patients”).\n\nUsed in: Teaching medical students at the University of Oslo.",
+        "title": "Emergency Medicine",
+        "description": "\nThis subject area covers a wide range of skills and procedures used in the initial assessment, monitoring, and stabilization of acutely ill patients. \"Emergency medicine\" is practiced prehospital, in general practice out-of-hours services, in hospital emergency departments, and when a patient on a ward acutely deteriorates. The procedures are therefore common to many medical specialties; the common feature is the need to quickly identify and address a potentially critical situation. This requires a prioritized systematic approach and well-practiced skills.\nThe e-learning resource is structured around the national requirements for practical skills for medical students in Norway, adopted in 2015. Some of the resources will also be found under other subject areas, such as general practice, general surgery (traumatology), anesthesiology, and propedeutics. The resources are intended as a supplement to regular teaching and textbooks.\nLearning outcomes: Contribute to training and repetition of the prioritized systematic approach and the practical skills necessary in the initial approach to acutely ill patients.\nPedagogy: The resource uses images, texts, animations, and interactive case studies (\"virtual patients\").\nUsed in: Teaching medical students at the University of Oslo.",
         "email": "signe.sovik@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/akuttmedisin/index.shtml"
       },
       {
-        "title": "Medication calculation and practical medication handling",
-        "description": "Learning outcomes: Provide medical students with an overview of medication calculations and practical medication handling, including setting up infusion sets, diluting injection and infusion fluids, and calculating infusion rates.\n\nPedagogy: The e-learning course is structured into 6 chapters consisting of short texts, illustrative images and clinical cases with multiple-choice calculation tasks.\n\nUsed in: Developed as a supplement to skills courses at the Skills Centre at UiO on inserting peripheral venous catheters, setting up infusion sets, and giving subcutaneous and intramuscular injections. The course can also be used as a supplement to teaching in anesthesiology.\n\nPrerequisites: Basic medical knowledge.\n\nThis e-learning resource was developed at: University of Oslo",
+        "title": "Medication Calculations and Practical Medication Management",
+        "description": "\nLearning outcomes: Provide medical students with an overview of medication calculations and practical medication management, including hanging an infusion set, dilution of injection and infusion fluids, and calculation of infusion rate.\nPedagogy: The e-learning course is structured into 6 chapters consisting of short texts, illustrative images, and clinical case studies with multiple-choice calculation tasks.\nUsed in: The course was developed as a supplement to courses in peripheral venous catheter insertion, hanging infusion sets, and subcutaneous and intramuscular injections at the Skills Centre at UiO. The course can also be used as a supplement to teaching in anesthesiology.\nPrerequisites: Basic medical knowledge.\nThe e-learning resource was developed at: University of Oslo",
         "email": "ferdighetssenteret@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/ferdighetssenteret/legemiddelregning/index.shtml"
       }
@@ -34,37 +34,37 @@
   },
   {
     "id": 3,
-    "title": "General practice",
-    "submenuTitle": "General practice",
+    "title": "General Practice",
+    "submenuTitle": "General Practice",
     "layout": "default",
     "content": [
       {
-        "title": "Clinical communication",
-        "description": "Learning outcomes: Learn important skills in clinical communication, and practice when and how these should be applied.\n\nPedagogy: Contains videos, tasks in the form of quizzes and reflection, and curriculum-related text.\n\nUsed in: A supplement to regular teaching in behavioral science in the medical programme in Oslo. The resource has different modules for different semesters and is adapted to the curriculum level.",
+        "title": "Clinical Communication",
+        "description": "\nLearning outcomes: Learn important skills in clinical communication, and practice when and how these should be applied.\nPedagogy: Contains videos, tasks in the form of quizzes and reflection, as well as curriculum-related text.\nUsed in: A supplement to regular teaching in behavioral sciences in the medical program in Oslo. The resource has different modules for the different semesters and is adapted to the curriculum level.",
         "email": "arnstein.finset@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/atferdsfag/klinkom/index.html"
       },
       {
-        "title": "Assessment of complex health problems in older adults",
-        "description": "Learning outcomes: Solve situation-specific, complex health problems in older adults that require systematic assessment, clinical evaluation and targeted, patient-centered interventions.\n\nPedagogy: The resource aims to strengthen practice-near teaching of systematic assessments for challenges such as chronic illness, cognitive impairment, nutrition and communication/contact. It presents strategies for systematic examination and challenges the learner to analyze strengths, weaknesses and the need for contextual adaptation based on subjective signs and objective data and findings from recognized assessment, screening and quality-of-life instruments. It introduces techniques and examination strategies, provides interactive tasks with feedback, and shows reflection sequences, in addition to tasks specifically for the master’s programme “advanced geriatric nursing”.\n\nUsed in: The master’s programme “advanced geriatric nursing” and as an introduction to geriatrics and general practice.\n\nPrerequisites: Anatomy, physiology, basic nursing.",
+        "title": "Assessment of Complex Health Problems in Older Adults",
+        "description": "\nLearning outcomes: Solve situation-specific, complex health problems in older adults that require systematic assessment, clinical evaluation, and targeted, patient-centered interventions.\nPedagogy: The resource is intended to strengthen practice-oriented teaching of systematic assessments in challenges such as chronic illness, cognitive impairment, nutrition, and contact. We demonstrate strategies for systematic examination, and challenge learners to analyze strengths, weaknesses, and the need for contextual adaptation based on subjective signs and objective data and findings from recognized assessment, screening, and quality-of-life instruments. Techniques and examination strategies are introduced, interactive tasks with feedback are provided, and reflection sequences are shown, in addition to tasks specifically for the master's program \"advanced geriatric nursing\".\nUsed in: The master's program \"advanced geriatric nursing\" and as an introduction to geriatrics and general practice.\nPrerequisites: Anatomy, physiology, basic nursing.",
         "email": "anne.moen@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/sykepleie/ags/forside/"
       },
       {
-        "title": "Psykiatriportalen",
-        "description": "The Psychiatry Portal is a collection of self-produced e-learning resources that demonstrate psychiatric interviews with patients with various complaints, and psychodynamically oriented psychotherapy.\n\nPedagogy: Video case studies.\n\nUsed by: Students in Module 5 of the medical programme in Oslo.",
+        "title": "The Psychiatry Portal",
+        "description": "\nThe Psychiatry Portal is a collection of in-house produced e-learning resources that demonstrate psychiatric interviews of patients with various complaints and psychodynamically oriented conversational therapy.\nPedagogy: Video case studies.\nUsed by: Students in module 5 in the medical program in Oslo.",
         "email": "jangutt@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/psykiatri/index.shtml"
       },
       {
-        "title": "The musculoskeletal system",
-        "description": "The e-learning resource on the musculoskeletal system is intended as a supplement to the clinical teaching on the musculoskeletal system for medical students. On these pages you can both read and watch images/diagrams and videos that demonstrate how to examine the different joints. In addition, you will find patient histories and quizzes. The resource was developed during 2015–2018. The medical students Caroline Kooy Tveiten, Hannah Ugletveit Jahr and Alexander Øvestad produced texts, drawings and videos together with lecturers primarily within Orthopaedic Surgery at Oslo University Hospital, Orthopaedics Clinic (Elbow: Stein Tyrdal; Ankle/Foot: Are Stødle; Hand: Magne Røkkum; Shoulder: Berte Bøe; Hip: Lars Nordsletten; Knee: Lars Engebretsen), as well as Physical Medicine with Professor Jens Ivar Brox (Back and neck). Professor Lars Engebretsen was the academic lead for the project. Learning outcomes: Learn to perform correct joint examinations of patients with varying symptoms and trauma/disease. Learn to interpret examinations with pathological findings by comparing them with normal examinations. Teaching approach: The resource is structured as a reference work with a main emphasis on practical examination technique. Self-testing is included in the form of quizzes and virtual patients so that students can check their learning process. Useful in orthopaedics, physical medicine and rheumatology teaching, and as a supplement for later clinical work. Supplement to an orthopaedics textbook. Used in: Actively used in group teaching in modules 3 and 8, and as a supplement to lectures within the same topics. In module 3, students acquire basic knowledge about the musculoskeletal system’s normal structure and function and learn relevant examination methodology. Module 8 focuses mainly on pathology knowledge, using relevant examinations further in diagnostic work, and further treatment of the patient’s problem.",
+        "title": "The Musculoskeletal System",
+        "description": "\nThe e-learning resource on the musculoskeletal system is intended as a supplement to clinical teaching on the musculoskeletal system for medical students. On these pages you can both read and view images/drawings and videos demonstrating how to examine the various joints. In addition, you will find patient histories and quizzes.\nThe e-learning resource was developed during the period 2015–2018. The medical students Caroline Kooy Tveiten, Hannah Ugletveit Jahr, and Alexander Øvestad created texts, drawings, and videos together with instructors mainly within Orthopedic Surgery at Oslo University Hospital, Orthopedic Clinic (Elbow: Stein Tyrdal, Ankle/Foot: Are Stødle, Hand: Magne Røkkum, Shoulder: Berte Bøe, Hip: Lars Nordsletten, and Knee: Lars Engebretsen), as well as Physical Medicine with Professor Jens Ivar Brox: Back and neck. Professor Lars Engebretsen was the academic lead for the project.\nLearning outcomes: Learn correct joint examination of patients with varying symptoms and trauma/diseases. Learn to interpret examinations with pathological findings by comparing them with normal examinations.\nPedagogy: The e-learning resource is built as a reference work with a main emphasis on learning practical examination technique. Self-testing is included in the form of quizzes and virtual patients so that the student can verify their learning process. Useful in orthopedics, physical medicine, and rheumatology teaching and as a supplement to later clinical work. Supplement to an orthopedics textbook.\nUsed in: Used actively in small-group teaching in module 3 and 8, and as a supplement to lectures within the same topics. In module 3, students acquire foundational knowledge of the musculoskeletal system’s normal structure and function, as well as learn relevant examination methodology. Module 8 focuses mainly on knowledge of pathology, using relevant examinations further in diagnostic work, and further treatment of the patient’s problem.",
         "email": " lars.engebretsen@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/ortopedi/index.shtml"
       },
       {
-        "title": "Skal jeg gi antibiotika?",
-        "description": "The course contains four modules with cases from an out-of-hours clinic, a GP office, a hospital and a nursing home. The course is intended for medical students who are about to go into, or have recently been in, clinical practice. It can also be useful for newly qualified doctors.\n\nLearning outcomes: After completing the course, you will be able to determine indications for antibiotics and communicate about antibiotic treatment across a range of conditions in primary and specialist healthcare services.\n\nPedagogy: The modules are built around cases with tasks you solve. Along the way you receive practical feedback. The course also contains a number of links with supplementary content.\n\nUsed: As a supplement to regular teaching.\n\nThe e-learning course is funded by SHE (Center for Sustainability in Health Education) and developed by the Antibiotic Center for Primary Care Medicine at the Department of General Practice, University of Oslo, with input from representatives from the medical faculties at the University of Bergen, the Norwegian University of Science and Technology, and UiT The Arctic University of Norway, KAS (National advisory unit for antibiotic use in specialist healthcare) and a reference group consisting of medical students.\n\nGo to the course, register as a new user, and enroll.\n\nThis e-learning resource was developed at: University of Oslo",
+        "title": "Should I Prescribe Antibiotics?",
+        "description": "\nThe course contains four course modules with case studies from, respectively, out-of-hours services, a GP office, a hospital, and a nursing home.\nThe course is intended for medical students who are about to start, or have recently been in, clinical practice. The course may also be useful for newly qualified doctors.\nLearning outcomes: After completing the course, you will be able to determine indications for antibiotics and communicate about antibiotic treatment for a range of conditions in primary and specialist health services.\nPedagogy: The modules are built around case studies with tasks you must solve. Along the way you receive practical, targeted feedback. The course also contains a number of links with supplementary content.\nUsed: As a supplement to regular teaching.\nThe e-learning course is funded by SHE (Centre for Sustainability in Health Education) and developed by the Antibiotic Centre for Primary Care Medicine at the Department of General Practice, University of Oslo, with input from representatives from the medical faculties at the University of Bergen, the Norwegian University of Science and Technology, and UiT – The Arctic University of Norway, KAS (National competence service for antibiotic use in specialist health services), and a reference group consisting of medical students.\nGo to the course, register as a new user, and enroll.\nThe e-learning resource was developed at: University of Oslo\n",
         "email": " post@antibiotikasenteret.no",
         "link": "https://kurs.antibiotikasenteret.no/login/index.php"
       }
@@ -77,13 +77,14 @@
     "layout": "default",
     "content": [
       {
-         "description": "The e-learning resource on the musculoskeletal system is intended as a supplement to the clinical teaching on the musculoskeletal system for medical students. On these pages you can both read and watch images/diagrams and videos that demonstrate how to examine the different joints. In addition, you will find patient histories and quizzes. The resource was developed during 2015–2018. The medical students Caroline Kooy Tveiten, Hannah Ugletveit Jahr and Alexander Øvestad produced texts, drawings and videos together with lecturers primarily within Orthopaedic Surgery at Oslo University Hospital, Orthopaedics Clinic (Elbow: Stein Tyrdal; Ankle/Foot: Are Stødle; Hand: Magne Røkkum; Shoulder: Berte Bøe; Hip: Lars Nordsletten; Knee: Lars Engebretsen), as well as Physical Medicine with Professor Jens Ivar Brox (Back and neck). Professor Lars Engebretsen was the academic lead for the project. Learning outcomes: Learn to perform correct joint examinations of patients with varying symptoms and trauma/disease. Learn to interpret examinations with pathological findings by comparing them with normal examinations. Teaching approach: The resource is structured as a reference work with a main emphasis on practical examination technique. Self-testing is included in the form of quizzes and virtual patients so that students can check their learning process. Useful in orthopaedics, physical medicine and rheumatology teaching, and as a supplement for later clinical work. Supplement to an orthopaedics textbook. Used in: Actively used in group teaching in modules 3 and 8, and as a supplement to lectures within the same topics. In module 3, students acquire basic knowledge about the musculoskeletal system’s normal structure and function and learn relevant examination methodology. Module 8 focuses mainly on pathology knowledge, using relevant examinations further in diagnostic work, and further treatment of the patient’s problem. Developed at: University of Oslo.",
+        "title": "The Musculoskeletal System",
+        "description": "\nThe e-learning resource on the musculoskeletal system is intended as a supplement to clinical teaching on the musculoskeletal system for medical students. On these pages you can both read and view images/drawings and videos demonstrating how to examine the various joints. In addition, you will find patient histories and quizzes.\nThe e-learning resource was developed during the period 2015–2018. The medical students Caroline Kooy Tveiten, Hannah Ugletveit Jahr, and Alexander Øvestad created texts, drawings, and videos together with instructors mainly within Orthopedic Surgery at Oslo University Hospital, Orthopedic Clinic (Elbow: Stein Tyrdal, Ankle/Foot: Are Stødle, Hand: Magne Røkkum, Shoulder: Berte Bøe, Hip: Lars Nordsletten, and Knee: Lars Engebretsen), as well as Physical Medicine with Professor Jens Ivar Brox: Back and neck. Professor Lars Engebretsen was the academic lead for the project.\nLearning outcomes: Learn correct joint examination of patients with varying symptoms and trauma/diseases. Learn to interpret examinations with pathological findings by comparing them with normal examinations.\nPedagogy: The e-learning resource is built as a reference work with a main emphasis on learning practical examination technique. Self-testing is included in the form of quizzes and virtual patients so that the student can verify their learning process. Useful in orthopedics, physical medicine, and rheumatology teaching and as a supplement to later clinical work. Supplement to an orthopedics textbook.\nUsed in: Used actively in small-group teaching in module 3 and 8, and as a supplement to lectures within the same topics. In module 3, students acquire foundational knowledge of the musculoskeletal system’s normal structure and function, as well as learn relevant examination methodology. Module 8 focuses mainly on knowledge of pathology, using relevant examinations further in diagnostic work, and further treatment of the patient’s problem.\nThe e-learning resource was developed at: University of Oslo\n",
         "email": "lars.engebretsen@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/ortopedi/index.shtml"
       },
       {
-        "title": "Histologi",
-        "description": "\nDisse sidene inneholder alle kurssnitt tilhørende undervisningen i histologi for medisinstudenter ved Universitetet i Oslo. Odontologi- og ernæringsstudenter vil også ha nytte av disse undervisningssidene, særlig det som finnes under modul 1.\nFør hvert kurs finner du en introduksjonsdel. Den dekker det absolutt viktigste du bør kunne før du begynner å se på de ulike snittene. Vi har valgt å ta med en rekke håndtegnete strukturer for å underbygge og illustrere poengene.\nAlle snittene er utstyrt med piler og tekst på viktige strukturer/prosesser. I tillegg finner du et virtuelt mikroskopi-bilde (VM-bildet) av alle snittene, der du selv skal forsøke å finne de ulike strukturene. Nettsiden er ment som et supplement til undervisningen på kurssalen. Den følger samme oppbygning som kursheftet du får kjøpt på Akademika. Sidene egner seg svært godt til selvstudium og repetisjon før eksamen. Kan du det som står på nettsidene her, er vi sikker på at du kommer til å briljere på eksamen!",
+        "title": "Histology",
+        "description": "\nThese pages contain all course slides used in histology teaching for medical students at the University of Oslo. Dentistry and nutrition students will also benefit from these teaching pages, especially what is found under module 1.\nBefore each course you will find an introduction section. It covers the most important things you should know before you begin looking at the different slides. We have chosen to include a number of hand-drawn structures to support and illustrate the points.\nAll slides are equipped with arrows and text on important structures/processes. In addition, you will find a virtual microscopy image (the VM image) of all slides, where you yourself should try to locate the various structures. The website is intended as a supplement to teaching in the course room. It follows the same structure as the course booklet you can buy at Akademika. The pages are very well suited for self-study and revision before the exam. If you know what is on these pages, we are sure you will shine on the exam!",
         "email": "m.r.daws@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/anatomi/histologi/index.shtml"
       }
@@ -91,19 +92,19 @@
   },
   {
     "id": 5,
-    "title": "Anestesiologi",
-    "submenuTitle": "Anestesiologi",
+    "title": "Anesthesiology",
+    "submenuTitle": "Anesthesiology",
     "layout": "default",
     "content": [
       {
-        "title": "Emergency medicine",
-        "description": "This subject area contains a wide range of skills and procedures used during initial examination, monitoring and stabilization of acutely ill patients. “Acute medicine” is practiced pre-hospital, in out-of-hours primary care, in hospital emergency departments, and in cases of acute deterioration for patients on wards. The procedures are therefore common to many specialties; the shared feature is the need to rapidly clarify and manage a potentially critical situation. This requires a prioritized, systematic approach and practiced skills.\n\nThe e-learning resource is built around the national requirements for practical skills for medical students in Norway adopted in 2015. Some resources will also be found under other subject areas, such as general practice, general surgery (traumatology), anesthesiology, and propedeutics.\n\nThe resources are intended as a supplement to regular teaching and textbooks.\n\nLearning outcomes: Support training and revision of the prioritized systematic approach and the practical skills necessary in the initial approach to acutely ill patients.\n\nPedagogy: Uses images, text, animations and interactive cases (“virtual patients”).\n\nUsed in: Teaching medical students at the University of Oslo.",
+        "title": "Emergency Medicine",
+        "description": "\nThis subject area covers a wide range of skills and procedures used in the initial assessment, monitoring, and stabilization of acutely ill patients. \"Emergency medicine\" is practiced prehospital, in general practice out-of-hours services, in hospital emergency departments, and when a patient on a ward acutely deteriorates. The procedures are therefore common to many medical specialties; the common feature is the need to quickly identify and address a potentially critical situation. This requires a prioritized systematic approach and well-practiced skills.\nThe e-learning resource is structured around the national requirements for practical skills for medical students in Norway, adopted in 2015. Some of the resources will also be found under other subject areas, such as general practice, general surgery (traumatology), anesthesiology, and propedeutics. The resources are intended as a supplement to regular teaching and textbooks.\n\nLearning outcomes: Contribute to training and repetition of the prioritized systematic approach and the practical skills necessary in the initial approach to acutely ill patients.\n\nPedagogy: The resource uses images, texts, animations, and interactive case studies (\"virtual patients\").\nUsed in: Teaching medical students at the University of Oslo.\n",
         "email": " signe.sovik@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/akuttmedisin/index.shtml"
       },
       {
-        "title": "Medication calculation and practical medication handling",
-        "description": "Learning outcomes: Provide medical students with an overview of medication calculations and practical medication handling, including setting up infusion sets, diluting injection and infusion fluids, and calculating infusion rates.\n\nPedagogy: The e-learning course is structured into 6 chapters consisting of short texts, illustrative images and clinical cases with multiple-choice calculation tasks.\n\nUsed in: Developed as a supplement to skills courses at the Skills Centre at UiO on inserting peripheral venous catheters, setting up infusion sets, and giving subcutaneous and intramuscular injections. The course can also be used as a supplement to teaching in anesthesiology.\n\nPrerequisites: Basic medical knowledge.\n\nThis e-learning resource was developed at: University of Oslo",
+        "title": "Medication Calculations and Practical Medication Management",
+        "description": "\nLearning outcomes: Provide medical students with an overview of medication calculations and practical medication management, including hanging an infusion set, dilution of injection and infusion fluids, and calculation of infusion rate.\nPedagogy: The e-learning course is structured into 6 chapters consisting of short texts, illustrative images, and clinical case studies with multiple-choice calculation tasks.\nUsed in: The course was developed as a supplement to courses in peripheral venous catheter insertion, hanging infusion sets, and subcutaneous and intramuscular injections at the Skills Centre at UiO. The course can also be used as a supplement to teaching in anesthesiology.\n\nPrerequisites: Basic medical knowledge.\nThe e-learning resource was developed at: University of Oslo",
         "email": "ferdighetssenteret@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/ferdighetssenteret/legemiddelregning/index.shtml"
       }
@@ -111,33 +112,33 @@
   },
   {
     "id": 6,
-    "title": "Child and adolescent psychiatry",
-    "submenuTitle": "Child and adolescent psychiatry",
+    "title": "Child and Adolescent Psychiatry",
+    "submenuTitle": "Child and Adolescent Psychiatry",
     "layout": "default",
     "content": []
   },
   {
     "id": 7,
-    "title": "Barnekirurgi",
-    "submenuTitle": "Barnekirurgi",
+    "title": "Pediatric Surgery",
+    "submenuTitle": "Pediatric Surgery",
     "layout": "default",
     "content": []
   },
   {
     "id": 8,
-    "title": "Barnesykdommer",
-    "submenuTitle": "Barnesykdommer",
+    "title": "Pediatrics",
+    "submenuTitle": "Pediatrics",
     "layout": "default",
     "content": [
       {
-        "title": "Clinical communication",
-        "description": "Learning outcomes: Learn important skills in clinical communication, and practice when and how these should be applied.\n\nPedagogy: Contains videos, tasks in the form of quizzes and reflection, and curriculum-related text.\n\nUsed in: A supplement to regular teaching in behavioral science in the medical programme in Oslo. The resource has different modules for different semesters and is adapted to the curriculum level.\n\nThis e-learning resource was developed at: University of Oslo",
+        "title": "Clinical Communication",
+        "description": "\nLearning outcomes: Learn important skills in clinical communication, and practice when and how these should be applied.\nPedagogy: Contains videos, tasks in the form of quizzes and reflection, as well as curriculum-related text.\nUsed in: A supplement to regular teaching in behavioral sciences in the medical program in Oslo. The resource has different modules for the different semesters and is adapted to the curriculum level.\nThe e-learning resource was developed at: University of Oslo\n",
         "email": "arnstein.finset@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/atferdsfag/klinkom/index.html"
       },
       {
-        "title": "Smertepodden",
-        "description": "This e-learning resource is a podcast series that discusses pain assessment and pain management in children. The episodes are presented by doctors, nurses, and a dentist, together with the medical students Camilla Gustavsen and David Hui. The podcast series is intended as a supplement to regular teaching and textbooks. Learning outcomes: The resource aims to contribute to achieving (parts of) the following learning outcomes in Module 6 at the University of Oslo: the most important physical, psychological, and social risk factors for health challenges in childhood, adolescence and in the family; how to organize and coordinate health services for children and adolescents with chronic conditions and disabilities in the community, and the transition to adult specialist services; challenges to child health in a global perspective; obtain a pediatric case history; communicate with parents and relate to children and adolescents; recognize symptoms and signs that characterize severe illness and life-threatening situations in children, stabilize vital functions and refer immediately to specialist care; empathy with sick children and their families; respect for children and families as active collaborators; ability to seek guidance from more experienced physicians; and ability to collaborate with other professions involved in social and health care of children. Teaching approach: The resource discusses and explains subject matter from several areas within paediatrics. Case studies and virtual patients are used where appropriate and natural in the episodes. Used in: Teaching medical students at the University of Oslo; it is also used in teaching dentistry and nursing students. Developed at: University of Oslo. Contact: signe.sovik@medisin.uio.no.",
+        "title": "The Pain Podcast",
+        "description": "\nThe e-learning resource is a podcast series that discusses pain assessment and pain management in children. The reflections are presented by doctors, nurses, and a dentist, as well as the medical students Camilla Gustavsen and David Hui. The podcast series is intended as a supplement to regular teaching and textbooks.\nLearning outcomes: The e-learning resource seeks to contribute to achieving (parts of) the following learning outcomes in module 6 at the University of Oslo:\nthe most important physical, psychological, and social risk factors for health challenges in childhood, adolescence and in the family\n\n•  how to organize and coordinate health services for children and adolescents with chronic conditions \n   and disabilities in the community, and the transition to adult specialist services challenges to child health in a global perspective\n•  obtain a pediatric case history\n•  communicate with the parents and relate to children and adolescents\n•  recognize symptoms and signs that characterize severe illness and life threatening situations in children, \n   stabilize vital functions and immediate referral to specialist care\n•  empathy with sick children and their families\n•  respect for the children and families as active collaborators\n•  ability to seek guidance from more experienced physicians\n•  ability to collaborate with other professions involved in social and health care of children\n\nPedagogy: The e-learning resource discusses and explains subject matter from several areas within pediatrics. Case studies and virtual patients are used where appropriate and natural within the episodes.\nUsed in: Teaching medical students at the University of Oslo. In addition, the e-learning resource is used in teaching dentistry and nursing students.\nThe e-learning resource was developed at: University of Oslo\n\nContact: signe.sovik@medisin.uio.no\n",
         "email": "signe.sovik@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/barnesykdommer/smertepodden.shtml"
       }
@@ -145,27 +146,27 @@
   },
   {
     "id": 9,
-    "title": "Biokjemi",
-    "submenuTitle": "Biokjemi",
+    "title": "Biochemistry",
+    "submenuTitle": "Biochemistry",
     "layout": "default",
     "content": []
   },
   {
     "id": 10,
-    "title": "Blodsykdommer",
-    "submenuTitle": "Blodsykdommer",
+    "title": "Hematology",
+    "submenuTitle": "Hematology",
     "layout": "default",
     "content": []
   },
   {
     "id": 11,
-    "title": "Bryst- og endokrinkirurgi",
-    "submenuTitle": "Bryst- og endokrinkirurgi",
+    "title": "Breast and Endocrine Surgery",
+    "submenuTitle": "Breast and Endocrine Surgery",
     "layout": "default",
     "content": [
       {
         "title": "Clinical Breast Examination",
-        "description": "Clinical breast examination: This e-learning program is a supplement to teaching and describes how a clinical breast examination should be performed.\n\nLearning outcomes: The program helps learners master the correct examination technique of the breast and regional lymph node stations. The most common clinical findings in breast cancer are reviewed.\n\nPedagogy: Best used as a supplement to lectures and small-group teaching.\n\nUsed in: Teaching about the breast for medical students.\n\nThis e-learning resource was developed at: University of Oslo",
+        "description": "\nClinical breast examination\nThis e-learning program is a supplement to teaching and describes how a clinical breast examination should be performed.\nLearning outcomes: The e-learning program helps teach correct examination technique of the breast and regional lymph node stations. The most common clinical findings in breast cancer are reviewed.\nPedagogy: The resource is best used as a supplement to lectures and small-group teaching.\nUsed in: Teaching about the breast for medical students.\nThe e-learning resource was developed at: University of Oslo\n",
         "email": "ekurs-bryst-endokrin@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/bryst_endokrin_kir/index.shtml"
       }
@@ -173,13 +174,13 @@
   },
   {
     "id": 12,
-    "title": "Endokrinologi",
-    "submenuTitle": "Endokrinologi",
+    "title": "Endocrinology",
+    "submenuTitle": "Endocrinology",
     "layout": "default",
     "content": [
       {
-        "title": "Thyreoidea",
-        "description": "This e-learning program gathers knowledge about the thyroid (thyreoidea) in one place and links content from basic medical, para-clinical and clinical subjects. It is intended as a supplement to regular teaching and textbooks, and for revision.\n\nLearning outcomes: The course provides a comprehensive overview of the thyroid based on the learning outcome descriptions from the relevant subject areas and modules. It will also help students learn the correct examination technique of the thyroid and regional lymph nodes.\n\nPedagogy: Uses text, video, illustrations, animations, interactive images, virtual microscopy, reflection questions, interactive cases (“virtual patients”) and quizzes.\n\nUsed in: Teaching medical students at the University of Oslo. Can also be used by Norwegian students at other universities.\n\nThe e-learning program builds on an older resource developed by two medical students together with Jens Petter Berg and Ingrid Norheim. The new program was created in collaboration with teaching staff and the e-learning section during 2020–2021. Professor Tore Julsrud Berg is the academic lead for the project.\n\nThis e-learning resource was developed at: University of Oslo",
+        "title": "Thyroid",
+        "description": "\nThis e-learning program brings knowledge about the thyroid together in one place and links material from basic medical, paraclinical, and clinical subjects. It is intended as a supplement to regular teaching and textbooks, and for revision.\nLearning outcomes: The course provides a comprehensive overview of the thyroid based on the learning outcome descriptions from the relevant subject areas and modules. It will also help students learn correct examination technique of the thyroid and regional lymph nodes.\nPedagogy: The resource uses text, video, illustrations, animations, interactive images, virtual microscopy, reflection questions, interactive case studies («virtual patients»), and quizzes.\nUsed in: Teaching medical students at the University of Oslo. Can also be used by Norwegian students at other universities.\nThe e-learning program builds on an older resource prepared by two medical students together with Jens Petter Berg and Ingrid Norheim. The new program was created in collaboration with instructors and the e-learning section during 2020–2021. Professor Tore Julsrud Berg is the academic lead for the project.\nThe e-learning resource was developed at: University of Oslo\n",
         "email": "e-laring@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/endokrinologi/thyreoidea/index.shtml"
       }
@@ -187,49 +188,49 @@
   },
   {
     "id": 13,
-    "title": "Nutrition Science",
-    "submenuTitle": "Nutrition Science",
+    "title": "Nutrition",
+    "submenuTitle": "Nutrition",
     "layout": "default",
     "content": [
       {
-        "title": "Disease-Related Malnutrition",
-        "description": "Learning outcomes: Identify different forms of malnutrition and understand risk factors and consequences. Be able to carry out risk assessment, calculate requirements, assess nutritional status and provide nutrition therapy. The course emphasizes skill development and contains many tasks and a number of clinical patient cases.\n\nUsed in: By students in clinical nutrition. Also recommended for other health professional students such as doctors and nurses.\n\nThis e-learning resource was developed at: University of Oslo",
+        "title": "Disease-Related Undernutrition",
+        "description": "\nLearning outcomes: Identify different forms of undernutrition and understand risk factors and consequences. Be able to carry out risk assessment, calculate needs, map nutritional status, and provide nutritional treatment. The course emphasizes skill development and includes many tasks and a range of clinical patient case studies.\nUsed: By students in clinical nutrition. Also recommended for other health profession students such as doctors and nurses.\nThe e-learning resource was developed at: University of Oslo\n",
         "email": "m.m.paulsen@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/ernaring/underernaering"
       },
       {
         "title": "Nutritional Assessment",
-        "description": "Learning outcomes: Be able to perform a nutrition assessment, including: conducting and interpreting anthropometric measurements, methods for measuring body composition, tools for assessing malnutrition (PG-SGA), and the glucose tolerance test.\n\nPedagogy: The course consists of a theory part with text, videos and questions. Each section includes tasks to facilitate learning.\n\nUsed in: The course is used as a supplement to lectures and practical exercises on nutrition assessment for clinical nutritionists in ERN1010 and in joint teaching in Module 2, and builds on the Nutrition Care Process (NCP).\n\nThis e-learning resource was developed at: University of Oslo",
+        "description": "\nLearning outcomes: Be able to perform a nutritional assessment in the form of: conducting and interpreting anthropometric measurements, methods for measuring body composition, tools for assessing undernutrition (PG-SGA), and the glucose tolerance test.\nPedagogy: The course consists of a theory section with text, videos, and questions. For each part there are tasks to facilitate learning.\nUsed: The course is used as a supplement to lectures and practical exercises on nutritional assessment for clinical nutritionists in ERN1010 and in joint teaching in Module 2, and is based on the Nutrition Care Process (NCP).\nThe e-learning resource was developed at: University of Oslo\n",
         "email": "christine.henriksen@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/ernaring/ernaringskartlegging_2021/index.html"
       },
       {
-        "title": "Nutrition Diagnosis",
-        "description": "Learning outcomes: Be able to identify a nutrition problem, etiology and signs/symptoms based on information from the nutrition assessment. After completing the course, you should be able to set a nutrition diagnosis and formulate it as a PES statement.\n\nPedagogy: The course consists of a theory part with text, videos and questions. At the end there is an assignment part where the student can practice on their own patients.\n\nUsed in: Used as a supplement to regular teaching in nutrition diagnosis for clinical nutritionists in ERN1010 and ERN4400, and builds on the Nutrition Assessment resource.\n\nThis e-learning resource was developed at: University of Oslo",
+        "title": "The Nutrition Diagnosis",
+        "description": "\nLearning outcomes: Be able to identify the nutrition problem, etiology, and symptoms based on information from the nutritional assessment. After completing the course, you should be able to set a nutrition diagnosis and formulate it in a PES statement.\nPedagogy: The course consists of a theory section with text, videos, and questions. At the end there is an assignment section where the student gets to try it out on their own patients.\nUsed: The course is used as a supplement to regular teaching on the nutrition diagnosis for clinical nutritionists in ERN1010 and ERN4400, and builds on the Nutritional Assessment.\nThe e-learning resource was developed at: University of Oslo\n",
         "email": "christine.henriksen@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/ernaring/ernaringsdiagnosen_2021/index.html"
       },
       {
         "title": "Nutrition Care Process - NCP",
-        "description": "Learning outcomes: How to use clinical nutritionists’ work process (NCP) and the standardized terminology NCPT.\n\nPedagogy: The course consists of a theory part with text, videos and questions. At the end there is an assignment part where the student can practice on their own patient.\n\nUsed in: Used as a supplement to lectures on the Nutrition Care Process for clinical nutritionists in ERN1010 and ERN4400.\n\nThis e-learning resource was developed at: University of Oslo",
+        "description": "\nLearning outcomes: How to use the clinical nutritionists' workflow (NCP) and the standardized terminology NCPT.\nPedagogy: The course consists of a theory section with text, videos, and questions. At the end there is an assignment section where the student gets to try it out on their own patient.\nUsed: The course is used as a supplement to lectures on the Nutrition Care Process for clinical nutritionists in ERN1010 and ERN4400.\nThe e-learning resource was developed at: University of Oslo\n",
         "email": "christine.henriksen@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/ernaring/nutrition_care_process"
       },
       {
-        "title": "Aterosklerose",
-        "description": "Learning outcomes: Increase understanding of which factors influence the atherosclerosis process and how it develops over time.\n\nPedagogy: An interactive e-learning program with short videos, quizzes, fun facts, recent research, and visualization of the inside of the body—especially blood vessels—with particles in 3D models and some 360° views.\n\nUsed in: All health education programmes, adapted for (MED2200) and later in the study programme.\n\nThis e-learning resource was developed at: University of Oslo",
+        "title": "Atherosclerosis",
+        "description": "\nLearning outcomes: Increase understanding of which factors affect the atherosclerosis process and how it develops over time.\nPedagogy: Interactive e-learning program with short film clips, quizzes, fun facts, recent research, and visualization of the body's interior—especially the blood vessels with particles in 3D models and some 360 views.\nUsed: By all health education programs, but adapted for (MED2200) and later in the course of study.\nThe e-learning resource was developed at: University of Oslo\n",
         "email": "karianne.svendsen@medisin.uio.no",
         "link": "https://dev.360powerview.com/?collection=fffe9397-289c-436b-9815-10961a3c0079&chapter=3835cca1-ff81-488e-830b-1197c23cae18&scene=47ed83da-78e1-46b0-9c99-e8c8b2a12d6a"
       },
       {
         "title": "Vitamin K",
-        "description": "Learning outcome: to have basic knowledge on vitamin K and its role in health and disease. The objective is to give an overview of the topic from the perspective of a clinical nutritionist, provide some in-depth information on biological mechanisms and the status of current knowledge, and present relevant clinical cases. Pedagogic base: Small e-lectures, with links to original articles and some fact sheets providing more details. Quiz questions and interactive cases are presented towards the end. Usage: As a supplement to lectures in ERN2300, in the clinical nutrition programme. This e-learning resource was developed at: University of Oslo",
+        "description": "\nLearning outcome: to have basic knowledge on vitamin K and its role in health and disease. The objective is to give an overview of the topic from the perspective of a clinical nutritionist, provide some in-depth information on biological mechanisms and the status of current knowledge, and present relevant clinical cases.\nPedagogic base: Small e-lectures, with links to original articles and some fact sheets providing more details. Quiz questions and interactive cases are presented towards the end.\nUsage: As a supplement to lectures in ERN2300, at the study in clinical nutrition.\nThe e-learning resource was developed at: University of Oslo\n",
         "email": "christine.henriksen@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/ernaring/vitamink/index.html"
       },
       {
         "title": "Patient Communication for Clinical Nutritionists",
-        "description": "Learning outcomes: Be able to use the BIO model for communication in a patient conversation, and use motivational interviewing to explore thoughts and feelings in order to promote coping.\n\nPedagogy: The course consists of a theory part with text, videos and questions. Each section includes tasks to facilitate learning.\n\nUsed in: The course is used as a supplement to lectures and practical exercises for clinical nutritionists in ERN1010.\n\nThis e-learning resource was developed at: University of Oslo",
+        "description": "\nLearning outcomes: Be able to use the BIO model for communication in a patient consultation, and use motivational interviewing to explore thoughts and feelings to promote coping.\nPedagogy: The course consists of a theory section with text, videos, and questions. For each part there are tasks to facilitate learning.\nUsed: The course is used as a supplement to lectures and practical exercises on nutritional assessment for clinical nutritionists in ERN1010,\nThe e-learning resource was developed at: University of Oslo\n",
         "email": "christine.henriksen@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/ernaring/nutriweb/story_html5.html"
       }
@@ -237,13 +238,13 @@
   },
   {
     "id": 14,
-    "title": "Farmakologi og toksikologi",
-    "submenuTitle": "Farmakologi og toksikologi",
+    "title": "Pharmacology and Toxicology",
+    "submenuTitle": "Pharmacology and Toxicology",
     "layout": "default",
     "content": [
       {
-        "title": "Medication calculation and practical medication handling",
-        "description": "Learning outcomes: Provide medical students with an overview of medication calculations and practical medication handling, including setting up infusion sets, diluting injection and infusion fluids, and calculating infusion rates.\n\nPedagogy: The e-learning course is structured into 6 chapters consisting of short texts, illustrative images and clinical cases with multiple-choice calculation tasks.\n\nUsed in: Developed as a supplement to skills courses at the Skills Centre at UiO on inserting peripheral venous catheters, setting up infusion sets, and giving subcutaneous and intramuscular injections. The course can also be used as a supplement to teaching in anesthesiology.\n\nPrerequisites: Basic medical knowledge.\n\nThis e-learning resource was developed at: University of Oslo",
+        "title": "Medication Calculations and Practical Medication Management",
+        "description": "\nLearning outcomes: Provide medical students with an overview of medication calculations and practical medication management, including hanging an infusion set, dilution of injection and infusion fluids, and calculation of infusion rate.\nPedagogy: The e-learning course is structured into 6 chapters consisting of short texts, illustrative images, and clinical case studies with multiple-choice calculation tasks.\nUsed in: The course was developed as a supplement to courses in peripheral venous catheter insertion, hanging infusion sets, and subcutaneous and intramuscular injections at the Skills Centre at UiO. The course can also be used as a supplement to teaching in anesthesiology.\nPrerequisites: Basic medical knowledge.\nThe e-learning resource was developed at: University of Oslo\n",
         "email": "ferdighetssenteret@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/ferdighetssenteret/legemiddelregning/index.shtml"
       }
@@ -258,18 +259,19 @@
   },
   {
     "id": 16,
-    "title": "Fysikalsk medisin",
-    "submenuTitle": "Fysikalsk medisin",
+    "title": "Physical Medicine",
+    "submenuTitle": "Physical Medicine",
     "layout": "default",
     "content": [
       {
-         "description": "The e-learning resource on the musculoskeletal system is intended as a supplement to the clinical teaching on the musculoskeletal system for medical students. On these pages you can both read and watch images/diagrams and videos that demonstrate how to examine the different joints. In addition, you will find patient histories and quizzes. The resource was developed during 2015–2018. The medical students Caroline Kooy Tveiten, Hannah Ugletveit Jahr and Alexander Øvestad produced texts, drawings and videos together with lecturers primarily within Orthopaedic Surgery at Oslo University Hospital, Orthopaedics Clinic (Elbow: Stein Tyrdal; Ankle/Foot: Are Stødle; Hand: Magne Røkkum; Shoulder: Berte Bøe; Hip: Lars Nordsletten; Knee: Lars Engebretsen), as well as Physical Medicine with Professor Jens Ivar Brox (Back and neck). Professor Lars Engebretsen was the academic lead for the project. Learning outcomes: Learn to perform correct joint examinations of patients with varying symptoms and trauma/disease. Learn to interpret examinations with pathological findings by comparing them with normal examinations. Teaching approach: The resource is structured as a reference work with a main emphasis on practical examination technique. Self-testing is included in the form of quizzes and virtual patients so that students can check their learning process. Useful in orthopaedics, physical medicine and rheumatology teaching, and as a supplement for later clinical work. Supplement to an orthopaedics textbook. Used in: Actively used in group teaching in modules 3 and 8, and as a supplement to lectures within the same topics. In module 3, students acquire basic knowledge about the musculoskeletal system’s normal structure and function and learn relevant examination methodology. Module 8 focuses mainly on pathology knowledge, using relevant examinations further in diagnostic work, and further treatment of the patient’s problem. Developed at: University of Oslo.",
+        "title": "The Musculoskeletal System",
+        "description": "\nThe e-learning resource on the musculoskeletal system is intended as a supplement to clinical teaching on the musculoskeletal system for medical students. On these pages you can both read and view images/drawings and videos demonstrating how to examine the various joints. In addition, you will find patient histories and quizzes.\nThe e-learning resource was developed during the period 2015–2018. The medical students Caroline Kooy Tveiten, Hannah Ugletveit Jahr, and Alexander Øvestad created texts, drawings, and videos together with instructors mainly within Orthopedic Surgery at Oslo University Hospital, Orthopedic Clinic (Elbow: Stein Tyrdal, Ankle/Foot: Are Stødle, Hand: Magne Røkkum, Shoulder: Berte Bøe, Hip: Lars Nordsletten, and Knee: Lars Engebretsen), as well as Physical Medicine with Professor Jens Ivar Brox: Back and neck. Professor Lars Engebretsen was the academic lead for the project.\nLearning outcomes: Learn correct joint examination of patients with varying symptoms and trauma/diseases. Learn to interpret examinations with pathological findings by comparing them with normal examinations.\nPedagogy: The e-learning resource is built as a reference work with a main emphasis on learning practical examination technique. Self-testing is included in the form of quizzes and virtual patients so that the student can verify their learning process. Useful in orthopedics, physical medicine, and rheumatology teaching and as a supplement to later clinical work. Supplement to an orthopedics textbook.\nUsed in: Used actively in small-group teaching in module 3 and 8, and as a supplement to lectures within the same topics. In module 3, students acquire foundational knowledge of the musculoskeletal system’s normal structure and function, as well as learn relevant examination methodology. Module 8 focuses mainly on knowledge of pathology, using relevant examinations further in diagnostic work, and further treatment of the patient’s problem.\nThe e-learning resource was developed at: University of Oslo\n",
         "email": "lars.engebretsen@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/ortopedi/index.shtml"
       },
       {
-        "title": "Radiologi bildedatabase",
-        "description": "A collection of images from radiological examinations, with descriptions of the examinations, descriptions of findings, and discussions of the role of the examinations in the work-up of various diseases.\n\nLearning outcomes: Find the appropriate imaging work-up for patients with varying symptoms and diseases. Learn to interpret examinations with pathological findings by comparing with normal examinations.\n\nPedagogy: Useful both in radiology teaching and as a supplement to clinical teaching. A supplement to a radiology textbook. Lectures, teaching objectives and the plan for group teaching are also available at radiologi.net.\n\nUsed in: Actively used in group teaching in Module 3 and 8. Imaging material in lectures is drawn from the database.\n\nThis e-learning resource was developed at: University of Oslo",
+        "title": "Radiology Image Database",
+        "description": "\nA collection of images from radiological examinations, including descriptions of the examinations, descriptions of findings, and discussions of the role of the examinations in the evaluation of various diseases.\n\nLearning outcomes: Identify the correct imaging workup for patients with varying symptoms and diseases. Learn to interpret examinations with pathological findings by comparing them with normal examinations.\n\nPedagogy: Useful both in radiology teaching and as a supplement to clinical teaching. Supplement to a radiology textbook. Lectures, learning objectives for the teaching, and the setup for small-group teaching are also available at www.radiologi.net.\n\nUsed in: Used actively in small-group teaching in Module 3 and 8. Image material in lectures is taken from the database.\n\nThe e-learning resource was developed at: University of Oslo\n",
         "email": "knut.lundin@medisin.uio.no",
         "link": "https://prod-studmed.uio.no/radiologiark/"
       }
@@ -282,14 +284,14 @@
     "layout": "default",
     "content": [
       {
-        "title": "Hjertemekanikk",
-        "description": "Learning outcomes: Understand normal cardiac mechanics at a level appropriate for newly graduated physicians.\n\nPedagogy: The resource is best used together with a textbook in circulatory physiology, but with some prior knowledge it can also be studied on its own. The resource is an interactive animation/simulation.\n\nUsed in: Teaching normal circulatory physiology and clinical cardiology in the medical programme in Oslo.\n\nThis e-learning resource was developed at: University of Oslo",
+        "title": "Cardiac Mechanics",
+        "description": "\nLearning outcomes: Understand normal cardiac mechanics at a level suitable for newly qualified doctors.\nPedagogy: The resource is best used together with a textbook in circulatory physiology, but with some prior knowledge it can be studied on its own. The resource is an interactive animation/simulation.\nUsed in: Teaching in normal circulatory physiology and clinical cardiology in the medical program in Oslo.\nThe e-learning resource was developed at: University of Oslo\n",
         "email": "e-laring@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/fysiologi/hjertemekanikk/index.shtml"
       },
       {
-        "title": "Hemodynamikk",
-        "description": "This e-learning program aims to explain the mechanisms and laws that govern fluid transport in arteries and veins.\n\nLearning outcomes: Contribute to understanding the relationship between blood flow and blood pressure based on Bernoulli’s and Poiseuille’s laws.\n\nPedagogy: Video lectures.\n\nUsed in: Teaching physiology in the programmes of medicine, dentistry and nutrition at the University of Oslo.\n\nThis e-learning resource was developed at: University of Oslo",
+        "title": "Hemodynamics",
+        "description": "This e-learning program aims to explain the mechanisms and laws that apply to fluid transport in arteries and veins.\nLearning outcomes: Contribute to understanding the relationship between blood flow and blood pressure based on Bernoulli's and Poiseuille's laws.\nPedagogy: Video lectures.\nUsed in: Teaching physiology in the medical, dentistry, and nutrition physiology programs at the University of Oslo.\nThe e-learning resource was developed at: University of Oslo",
         "email": "maja.elstad@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/fysiologi/hemodynamikk/index.shtml"
       }
@@ -303,7 +305,7 @@
     "content": [
       {
         "title": "Obstetrics and Gynecology",
-        "description": "This e-learning program is a supplement to teaching in obstetrics and gynecology. The web resource was initiated in 2018 by Professor Annetine Staff and is expected to be expanded in the coming years with new topics.\n\nLearning outcomes: These webpages aim to help medical students learn obstetrics and gynecology. The content is aligned with the curriculum at the University of Oslo and aims to support learning gained from classroom teaching, clinical small-group teaching, seminars and textbooks.\n\nPedagogy: The resources can be used to prepare for courses, revise clinical training, and improve understanding of clinical and basic knowledge taught in classes and small groups.\n\nUsed in: Module 6 is taught in English at the University of Oslo because the module has many exchange students from universities outside Norway. The language of these webpages will therefore mostly be English.\n\nThe learning resources were developed by Professors Annetine Staff and Anne Flem Jacobsen. In addition, several physicians have contributed to specific topics, such as Nina Verket (examination of the pregnant abdomen) and Camilla Bowen/Thao Ho (contraception).\n\nThis e-learning resource was developed at: University of Oslo",
+        "description": "\nThis e-learning program is a supplement to teaching in obstetrics and gynecology. The web resource was initiated in 2018 by Professor Annetine Staff and is expected to expand in the coming years with new topics within the field.\nLearning outcomes: These pages aim to help medical students in their learning of obstetrics and gynecology. The content is adapted to the curriculum at the University of Oslo and aims to support learning achieved through classroom teaching, clinical \"small-group\" teaching, seminars, and textbooks.\nPedagogy: The resources can be used for preparation for courses, revision of clinical training, and improved understanding of clinical and basic knowledge taught in classes and small groups.\nUsed in: Module 6 is taught in English at the University of Oslo because the module has many exchange students from other universities outside Norway. The language of these web pages will therefore mostly be English.\nThe learning resources were developed by Professors Annetine Staff and Anne Flem Jacobsen. In addition, several doctors have contributed specific topics, such as Nina Verket (examination of the pregnant abdomen) and Camilla Bowen/Thao Ho (contraception).\nThe e-learning resource was developed at: University of Oslo\n",
         "email": "elaring-obstgyn@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/obstgyn/index.shtml"
       }
@@ -311,38 +313,38 @@
   },
   {
     "id": 19,
-    "title": "Gastroenterologisk kirurgi",
-    "submenuTitle": "Gastroenterologisk kirurgi",
+    "title": "Gastrointestinal Surgery",
+    "submenuTitle": "Gastrointestinal Surgery",
     "layout": "default",
     "content": []
   },
   {
     "id": 20,
-    "title": "Generell kirurgi",
-    "submenuTitle": "Generell kirurgi",
+    "title": "General Surgery",
+    "submenuTitle": "General Surgery",
     "layout": "default",
     "content": [
       {
-        "title": "Clinical communication",
-        "description": "Learning outcomes: Learn important skills in clinical communication, and practice when and how these should be applied.\n\nPedagogy: Contains videos, tasks in the form of quizzes and reflection, and curriculum-related text.\n\nUsed in: A supplement to regular teaching in behavioral science in the medical programme in Oslo. The resource has different modules for different semesters and is adapted to the curriculum level.\n\nThis e-learning resource was developed at: University of Oslo\n\nContact: Hanne Cathrine Lie",
+        "title": "Clinical Communication",
+        "description": "\nLearning outcomes: Learn important skills in clinical communication, and practice when and how these should be applied.\nPedagogy: Contains videos, tasks in the form of quizzes and reflection, as well as curriculum-related text.\nUsed in: A supplement to regular teaching in behavioral sciences in the medical program in Oslo. The resource has different modules for the different semesters and is adapted to the curriculum level.\nThe e-learning resource was developed at: University of Oslo\nContact: Hanne Cathrine Lie\n",
         "email": "h.c.lie@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/atferdsfag/klinkom/index.html"
       },
       {
-        "title": "Radiologi bildedatabase",
-        "description": "A collection of images from radiological examinations, with descriptions of the examinations, descriptions of findings, and discussions of the role of the examinations in the work-up of various diseases.\n\nLearning outcomes: Find the appropriate imaging work-up for patients with varying symptoms and diseases. Learn to interpret examinations with pathological findings by comparing with normal examinations.\n\nPedagogy: Useful both in radiology teaching and as a supplement to clinical teaching. A supplement to a radiology textbook. Lectures, teaching objectives and the plan for group teaching are also available at radiologi.net.\n\nUsed in: Actively used in group teaching in Module 3 and 8. Imaging material in lectures is drawn from the database.\n\nThis e-learning resource was developed at: University of Oslo",
+        "title": "Radiology Image Database",
+        "description": "\nA collection of images from radiological examinations, including descriptions of the examinations, descriptions of findings, and discussions of the role of the examinations in the evaluation of various diseases.\n\nLearning outcomes: Identify the correct imaging workup for patients with varying symptoms and diseases. Learn to interpret examinations with pathological findings by comparing them with normal examinations.\n\nPedagogy: Useful both in radiology teaching and as a supplement to clinical teaching. Supplement to a radiology textbook. Lectures, learning objectives for the teaching, and the setup for small-group teaching are also available at www.radiologi.net.\n\nUsed in: Used actively in small-group teaching in Module 3 and 8. Image material in lectures is taken from the database.\n\nThe e-learning resource was developed at: University of Oslo\n",
         "email": "knut.lundin@medisin.uio.no",
         "link": "https://prod-studmed.uio.no/radiologiark/"
       },
       {
-        "title": "Medication calculation and practical medication handling",
-        "description": "Learning outcomes: Provide medical students with an overview of medication calculations and practical medication handling, including setting up infusion sets, diluting injection and infusion fluids, and calculating infusion rates.\n\nPedagogy: The e-learning course is structured into 6 chapters consisting of short texts, illustrative images and clinical cases with multiple-choice calculation tasks.\n\nUsed in: Developed as a supplement to skills courses at the Skills Centre at UiO on inserting peripheral venous catheters, setting up infusion sets, and giving subcutaneous and intramuscular injections. The course can also be used as a supplement to teaching in anesthesiology.\n\nPrerequisites: Basic medical knowledge.\n\nThis e-learning resource was developed at: University of Oslo",
+        "title": "Medication Calculations and Practical Medication Management",
+        "description": "\nLearning outcomes: Provide medical students with an overview of medication calculations and practical medication management, including hanging an infusion set, dilution of injection and infusion fluids, and calculation of infusion rate.\nPedagogy: The e-learning course is structured into 6 chapters consisting of short texts, illustrative images, and clinical case studies with multiple-choice calculation tasks.\nUsed in: The course was developed as a supplement to courses in peripheral venous catheter insertion, hanging infusion sets, and subcutaneous and intramuscular injections at the Skills Centre at UiO. The course can also be used as a supplement to teaching in anesthesiology.\nPrerequisites: Basic medical knowledge.\nThe e-learning resource was developed at: University of Oslo\n",
         "email": " ferdighetssenteret@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/ferdighetssenteret/legemiddelregning/index.shtml"
       },
       {
-        "title": "Basal kirurgisk teknikk",
-        "description": "This course consists of theory and short instructional videos to learn basic skills in surgical technique. Use of instruments and different suture techniques are shown.\n\nLearning outcomes: Demonstrates correct techniques that can be used to prepare before courses and small-group sessions, and for revision throughout the programme.\n\nPedagogy: Useful both for clinical placements and as a supplement to clinical teaching.\n\nUsed in: Actively used in group teaching in Module 8.\n\nThis e-learning resource was developed at: University of Oslo",
+        "title": "Basic Surgical Technique",
+        "description": "\nThis course consists of theory and short instructional videos to teach basic skills in surgical technique. The use of instruments and different suturing techniques are demonstrated.\n\nLearning outcomes: Demonstrate correct technique that can be used for learning ahead of courses and small groups, as well as for repetition throughout the program.\n\nPedagogy: Useful both for clinical placements and as a supplement to clinical teaching.\n\nUsed in: Used actively in small-group teaching in Module 8.\nThe e-learning resource was developed at: University of Oslo\n",
         "email": "henriesu@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/kirurgi/basal_kirurgisk_teknikk"
       }
@@ -350,8 +352,8 @@
   },
   {
     "id": 21,
-    "title": "Geriatri",
-    "submenuTitle": "Geriatri",
+    "title": "Geriatrics",
+    "submenuTitle": "Geriatrics",
     "layout": "default",
     "content": [
       {
@@ -361,19 +363,19 @@
         "link": "https://studmed.uio.no/elaring/fag/atferdsfag/klinkom/index.html"
       },
       {
-        "title": "Kognitive utfall hos slagpasienter",
+        "title": "Cognitive Outcomes in Stroke Patients",
         "description": "Learning outcomes: Gain better insight into, and the ability to recognize, some typical cognitive problems that can occur after stroke.\n\nPedagogy: Videos of patients with accompanying text and questions. Can be used as a standalone resource.\n\nUsed in: Geriatrics teaching in the final year of the medical programme in Oslo. Can also be beneficial in neurology teaching.\n\nPrerequisites: Best suited for students who have received some practical training and insight into clinical subjects, especially geriatrics, internal medicine and neurology. The resource is therefore best suited for the later part of the medical programme. The resource is also suitable for physiotherapy and occupational therapy students.\n\nThis e-learning resource was developed at: University of Oslo",
         "email": "t.b.wyller@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/indremedisin/kognitive_utfall_etter_hjerneslag/index.shtml"
       },
       {
-        "title": "Assessment of complex health problems in older adults",
+        "title": "Assessment of Complex Health Problems in Older Adults",
         "description": "Learning outcomes: Solve situation-specific, complex health problems in older adults that require systematic assessment, clinical evaluation and targeted, patient-centered interventions.\n\nPedagogy: The resource aims to strengthen practice-near teaching of systematic assessments for challenges such as chronic illness, cognitive impairment, nutrition and communication/contact. It presents strategies for systematic examination and challenges the learner to analyze strengths, weaknesses and the need for contextual adaptation based on subjective signs and objective data and findings from recognized assessment, screening and quality-of-life instruments. It introduces techniques and examination strategies, provides interactive tasks with feedback, and shows reflection sequences, in addition to tasks specifically for the master’s programme “advanced geriatric nursing”.\n\nUsed in: The master’s programme “advanced geriatric nursing” and as an introduction to geriatrics and general practice.\n\nPrerequisites: Anatomy, physiology, basic nursing.\n\nThis e-learning resource was developed at: University of Oslo",
         "email": "anne.moen@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/sykepleie/ags/forside/"
       },
       {
-        "title": "Skal jeg gi antibiotika?",
+        "title": "Should I Prescribe Antibiotics?",
         "description": "The course contains four modules with cases from an out-of-hours clinic, a GP office, a hospital and a nursing home. The course is intended for medical students who are about to go into, or have recently been in, clinical practice. It can also be useful for newly qualified doctors.\n\nLearning outcomes: After completing the course, you will be able to determine indications for antibiotics and communicate about antibiotic treatment across a range of conditions in primary and specialist healthcare services.\n\nPedagogy: The modules are built around cases with tasks you solve. Along the way you receive practical feedback. The course also contains a number of links with supplementary content.\n\nUsed: As a supplement to regular teaching.\n\nThe e-learning course is funded by SHE (Center for Sustainability in Health Education) and developed by the Antibiotic Center for Primary Care Medicine at the Department of General Practice, University of Oslo, with input from representatives from the medical faculties at the University of Bergen, the Norwegian University of Science and Technology, and UiT The Arctic University of Norway, KAS (National advisory unit for antibiotic use in specialist healthcare) and a reference group consisting of medical students.\n\nGo to the course, register as a new user, and enroll.\n\nThis e-learning resource was developed at: University of Oslo",
         "email": "post@antibiotikasenteret.no",
         "link": "https://kurs.antibiotikasenteret.no/course/view.php?id=7"
@@ -382,19 +384,19 @@
   },
   {
     "id": 22,
-    "title": "Hjertesykdommer",
-    "submenuTitle": "Hjertesykdommer",
+    "title": "Heart Diseases",
+    "submenuTitle": "Heart Diseases",
     "layout": "default",
     "content": [
       {
-        "title": "Hjertemekanikk",
+        "title": "Cardiac Mechanics",
         "description": "Learning outcomes: Understand normal cardiac mechanics at a level appropriate for newly graduated physicians.\n\nPedagogy: The resource is best used together with a textbook in circulatory physiology, but with some prior knowledge it can also be studied on its own. The resource is an interactive animation/simulation.\n\nUsed in: Teaching normal circulatory physiology and clinical cardiology in the medical programme in Oslo.\n\nThis e-learning resource was developed at: University of Oslo",
         "email": " e-laring@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/fysiologi/hjertemekanikk/index.shtml"
       },
       {
         "title": "ECG E-learning Program",
-        "description": "\nNettbasert kurs om EKG.\n",
+        "description": "\nWeb-based course on ECG.\n",
         "email": " e-laring@medisin.uio.no",
         "link": "https://www.heartfailure.no/celle_papir/index.html"
       },
@@ -408,18 +410,18 @@
   },
   {
     "id": 23,
-    "title": "Hudsykdommer og venerologi",
-    "submenuTitle": "Hudsykdommer og venerologi",
+    "title": "Skin Diseases and Venereology",
+    "submenuTitle": "Skin Diseases and Venereology",
     "layout": "default",
     "content": [
       {
-        "title": "Prosedyrer i hudfaget",
+        "title": "Procedures in Dermatology",
         "description": "The e-learning resource for the course in dermatology and venereal diseases is intended as a supplement to small-group teaching for medical students in the 6th semester. On these pages you will find updated descriptions of several diagnostic and therapeutic procedures.\n\nThis e-learning resource was developed at: University of Oslo (work in progress)",
         "email": "t.k.bergersen@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/hudsykdommer/prosedyrer/index.shtml"
       },
       {
-        "title": "Sexually transmitted infections",
+        "title": "Sexually Transmitted Infections",
         "description": "Objectives: This e-learning program aims to enable participants to develop their theoretical knowledge and clinical skills in identifying signs and symptoms of sexually transmitted infections. A good sexual history and clinical examination including microscopy is crucial in order to establish a correct presumptive diagnosis and provide syndromic treatment. The course should also increase awareness of the needs of different patient groups, particularly groups with high-risk sexual behavior. Apart from serological tests, HIV and hepatitis are not included. This e-learning resource was developed at: University of Oslo",
         "email": "harald.moi@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/venerologi/olafia2021/"
@@ -433,7 +435,7 @@
     "layout": "default",
     "content": [
       {
-        "title": "Basal immunologi",
+        "title": "Basic Immunology",
         "description": "Learning outcomes: Understand basic immunological concepts and mechanisms—forming a foundation for clinical immunology and immunohematology.\n\nPedagogical profile: A systematic review of basic immunology across 7 lecture videos, progressing from simple to more complex topics. It is therefore recommended to start with lecture 1 and end with lecture 7. Pure knowledge transfer without interaction or self-testing. Ideally used together with an immunology textbook, but can also be used on its own.\n\nUsed in: Basic sciences teaching in the medical programme in Oslo.\n\nPrerequisites: Should have knowledge of cell biology. Some knowledge of anatomy, physiology and biochemistry is an advantage.\n\nThis e-learning resource was developed at: University of Oslo",
         "email": "bjarne.bogen@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/immunologi/index.shtml"
@@ -442,8 +444,8 @@
   },
   {
     "id": 25,
-    "title": "Indremedisin (uspesifisert)",
-    "submenuTitle": "Indremedisin (uspesifisert)",
+    "title": "Internal Medicine (Unspecified)",
+    "submenuTitle": "Internal Medicine (Unspecified)",
     "layout": "default",
     "content": [
       {
@@ -453,19 +455,19 @@
         "link": "https://studmed.uio.no/elaring/fag/atferdsfag/klinkom/index.html"
       },
       {
-        "title": "Radiologi bildedatabase",
+        "title": "Radiology Image Database",
         "description": "A collection of images from radiological examinations, with descriptions of the examinations, descriptions of findings, and discussions of the role of the examinations in the work-up of various diseases.\n\nLearning outcomes: Find the appropriate imaging work-up for patients with varying symptoms and diseases. Learn to interpret examinations with pathological findings by comparing with normal examinations.\n\nPedagogy: Useful both in radiology teaching and as a supplement to clinical teaching. A supplement to a radiology textbook. Lectures, teaching objectives and the plan for group teaching are also available at radiologi.net.\n\nUsed in: Actively used in group teaching in Module 3 and 8. Imaging material in lectures is drawn from the database.\n\nThis e-learning resource was developed at: University of Oslo",
         "email": "knut.lundin@medisin.uio.no",
         "link": "https://prod-studmed.uio.no/radiologiark/"
       },
       {
-        "title": "Kognitive utfall hos slagpasienter",
+        "title": "Cognitive Outcomes in Stroke Patients",
         "description": "Learning outcomes: Gain better insight into, and the ability to recognize, some typical cognitive problems that can occur after stroke.\n\nPedagogy: Videos of patients with accompanying text and questions. Can be used as a standalone resource.\n\nUsed in: Geriatrics teaching in the final year of the medical programme in Oslo. Can also be beneficial in neurology teaching.\n\nPrerequisites: Best suited for students who have received some practical training and insight into clinical subjects, especially geriatrics, internal medicine and neurology. The resource is therefore best suited for the later part of the medical programme. The resource is also suitable for physiotherapy and occupational therapy students.\n\nThis e-learning resource was developed at: University of Oslo",
         "email": "t.b.wyller@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/indremedisin/kognitive_utfall_etter_hjerneslag/index.shtml"
       },
       {
-        "title": "Medication calculation and practical medication handling",
+        "title": "Medication Calculation and Practical Medication Management",
         "description": "Learning outcomes: Provide medical students with an overview of medication calculations and practical medication handling, including setting up infusion sets, diluting injection and infusion fluids, and calculating infusion rates.\n\nPedagogy: The e-learning course is structured into 6 chapters consisting of short texts, illustrative images and clinical cases with multiple-choice calculation tasks.\n\nUsed in: Developed as a supplement to skills courses at the Skills Centre at UiO on inserting peripheral venous catheters, setting up infusion sets, and giving subcutaneous and intramuscular injections. The course can also be used as a supplement to teaching in anesthesiology.\n\nPrerequisites: Basic medical knowledge.\n\nThis e-learning resource was developed at: University of Oslo",
         "email": "ferdighetssenteret@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/ferdighetssenteret/legemiddelregning/index.shtml"
@@ -474,24 +476,24 @@
   },
   {
     "id": 26,
-    "title": "Infeksjonssykdommer",
-    "submenuTitle": "Infeksjonssykdommer",
+    "title": "Infectious Diseases",
+    "submenuTitle": "Infectious Diseases",
     "layout": "default",
     "content": [
       {
-        "title": "Infectious diseases",
+        "title": "Infectious Diseases",
         "description": "This e-learning resource is made for medical students as a supplement to teaching in infectious diseases and microbiology. It is divided into three parts: (1) microbiology, (2) infectious diseases and (3) case studies.\n\nLearning outcomes: Help cover learning objectives and learning outcomes in infectious diseases and microbiology for the relevant semesters.\n\nPedagogy: The resource uses text, images and interactive cases. The pages are structured in the same way for each topic, and each topic is described at a level students are expected to achieve. Some topics therefore have longer theory pages than others because they involve more important/common diseases. The cases at the end test the theory covered on the pages as well as situations inside and outside the hospital that students can expect to encounter during training and as qualified doctors.\n\nUsed in: Expected to be used in teaching medical students at the University of Oslo. The resource has been available since December 2015.\n\nThis e-learning resource was developed at: University of Oslo",
         "email": "jangutt@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/lcms16/indremedisin/infeksjonsmedisin/"
       },
       {
-        "title": "Medical microbiology",
+        "title": "Medical Microbiology",
         "description": "This e-learning program is a supplement to teaching in microbiology and contains images and information about the pathogenesis, diagnostics and treatment of infectious diseases.\n\nLearning outcomes: The program helps learners understand the correct use and interpretation of microbiological tests and contributes to understanding microbial pathogenesis.\n\nPedagogy: The resources are best used as a supplement to textbooks in medical microbiology and to lectures, seminars and courses in the subject.\n\nUsed in: The resources are adapted to Modules 1 and 3 of the medical programme in medical microbiology at the University of Oslo.\n\nThis e-learning resource was developed at: University of Oslo",
         "email": "marie.noer@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/mikrobiologi/index.shtml"
       },
       {
-        "title": "Skal jeg gi antibiotika?",
+        "title": "Should I Prescribe Antibiotics?",
         "description": "The course contains four modules with cases from an out-of-hours clinic, a GP office, a hospital and a nursing home. The course is intended for medical students who are about to go into, or have recently been in, clinical practice. It can also be useful for newly qualified doctors.\n\nLearning outcomes: After completing the course, you will be able to determine indications for antibiotics and communicate about antibiotic treatment across a range of conditions in primary and specialist healthcare services.\n\nPedagogy: The modules are built around cases with tasks you solve. Along the way you receive practical feedback. The course also contains a number of links with supplementary content.\n\nUsed: As a supplement to regular teaching.\n\nThe e-learning course is funded by SHE (Center for Sustainability in Health Education) and developed by the Antibiotic Center for Primary Care Medicine at the Department of General Practice, University of Oslo, with input from representatives from the medical faculties at the University of Bergen, the Norwegian University of Science and Technology, and UiT The Arctic University of Norway, KAS (National advisory unit for antibiotic use in specialist healthcare) and a reference group consisting of medical students.\n\nGo to the course, register as a new user, and enroll.\n\nThis e-learning resource was developed at: University of Oslo",
         "email": " post@antibiotikasenteret.no",
         "link": "https://kurs.antibiotikasenteret.no/login/index.php"
@@ -500,12 +502,12 @@
   },
   {
     "id": 27,
-    "title": "Klinisk biokjemi",
-    "submenuTitle": "Klinisk biokjemi",
+    "title": "Clinical Biochemistry",
+    "submenuTitle": "Clinical Biochemistry",
     "layout": "default",
     "content": [
       {
-        "title": "Klinisk biokjemi ved nyresykdommer",
+        "title": "Clinical Biochemistry in Kidney Disease",
         "description": "This e-learning program is a supplement to teaching and contains images and animations that illustrate the kidneys’ normal structure and function, as well as the pathogenesis, diagnostics and treatment of kidney diseases.\n\nLearning outcomes: The program helps learners understand correct use and interpretation of biochemical analyses in blood and urine in kidney disease. It should also contribute to understanding normal renal physiology and pathophysiological mechanisms in kidney diseases.\n\nPedagogy: Best used as a supplement to textbooks in clinical biochemistry, physiology and nephrology, as well as lectures and group teaching. The resource can be used as case studies, with links to more detailed information about clinical biochemical analyses and animations showing normal physiology and disease mechanisms.\n\nUsed in: Teaching in clinical biochemistry and kidney diseases in the medical programme.\n\nThis e-learning resource was developed at: University of Oslo",
         "email": "j.p.berg@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/klinisk_biokjemi/index.shtml"
@@ -521,12 +523,12 @@
   },
   {
     "id": 29,
-    "title": "Lungesykdommer",
-    "submenuTitle": "Lungesykdommer",
+    "title": "Respiratory Diseases",
+    "submenuTitle": "Respiratory Diseases",
     "layout": "default",
     "content": [
       {
-        "title": "Radiologi bildedatabase",
+        "title": "Radiology Image Database",
         "description": "A collection of images from radiological examinations, with descriptions of the examinations, descriptions of findings, and discussions of the role of the examinations in the work-up of various diseases.\n\nLearning outcomes: Find the appropriate imaging work-up for patients with varying symptoms and diseases. Learn to interpret examinations with pathological findings by comparing with normal examinations.\n\nPedagogy: Useful both in radiology teaching and as a supplement to clinical teaching. A supplement to a radiology textbook. Lectures, teaching objectives and the plan for group teaching are also available at radiologi.net.\n\nUsed in: Actively used in group teaching in Module 3 and 8. Imaging material in lectures is drawn from the database.\n\nThis e-learning resource was developed at: University of Oslo",
         "email": "knut.lundin@medisin.uio.no",
         "link": "https://prod-studmed.uio.no/radiologiark/"
@@ -535,8 +537,8 @@
   },
   {
     "id": 30,
-    "title": "Medical ethics",
-    "submenuTitle": "Medical ethics",
+    "title": "Medical Ethics",
+    "submenuTitle": "Medical Ethics",
     "layout": "default",
     "content": [
       {
@@ -552,7 +554,7 @@
         "link": "https://studmed.uio.no/elaring/fag/etikk/biomedical_research_ethics_2019/story_html5.html"
       },
       {
-        "title": "Vurdering av samtykkekompetanse",
+        "title": "Assessment of Decision-Making Capacity",
         "description": "Learning outcomes: The course focuses on assessing decision-making capacity (capacity to consent), with a particular focus on mental health care.\n\nPedagogy: Contains text, videos and tasks in the form of reflection questions.\n\nUsed by: Physicians, medical students, healthcare personnel (especially within psychiatry), and people working with issues of consent and coercion in mental health care.\n\nThis e-learning resource was developed at: University of Oslo",
         "email": "jorgen.dahlberg@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/etikk/samtykke/index.shtml"
@@ -561,12 +563,12 @@
   },
   {
     "id": 31,
-    "title": "Medical genetics",
-    "submenuTitle": "Medical genetics",
+    "title": "Medical Genetics",
+    "submenuTitle": "Medical Genetics",
     "layout": "default",
     "content": [
       {
-        "title": "Portal i medisinsk genetikk",
+        "title": "Medical Genetics Portal",
         "description": "Learning outcomes: Help learners understand the structure of the human genome, how mutations give rise to genetic variation in a population, and how these can contribute to disease development.\n\nPedagogy: A supplement to textbooks and lectures. The resources are aligned with the curriculum in medical genetics, and the multiple-choice questions are divided into sets that match the weekly teaching in Module 1, Block 2. Emphasis is placed on learning terms and concepts and building understanding within the topics covered in lectures. Virtual patients provide practice in reasoning about different inheritance patterns of disease and the consequences various chromosomal abnormalities can have for the patient and family. They also encourage reflection on what genetic tests can and cannot detect.\n\nUsed in: Adapted for the medical programme’s Module 1, Block 2 at the University of Oslo. Also useful for revision for students later in their education. Can also be used by Norwegian students abroad, foreign doctors who want to work in Norway, or other healthcare personnel.\n\nPrerequisites: None.\n\nThis e-learning resource was developed at: University of Oslo",
         "email": "eirik.frengen@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/genetikk/#/"
@@ -575,18 +577,18 @@
   },
   {
     "id": 32,
-    "title": "Medical microbiology",
-    "submenuTitle": "Medical microbiology",
+    "title": "Medical Microbiology",
+    "submenuTitle": "Medical Microbiology",
     "layout": "default",
     "content": [
       {
-        "title": "Medical microbiology",
+        "title": "Medical Microbiology",
         "description": "This e-learning program is a supplement to teaching in microbiology and contains images and information about the pathogenesis, diagnostics and treatment of infectious diseases.\n\nLearning outcomes: The program helps learners understand the correct use and interpretation of microbiological tests and contributes to understanding microbial pathogenesis.\n\nPedagogy: The resources are best used as a supplement to textbooks in medical microbiology and to lectures, seminars and courses in the subject.\n\nUsed in: The resources are adapted to Modules 1 and 3 of the medical programme in medical microbiology at the University of Oslo.\n\nThis e-learning resource was developed at: University of Oslo",
         "email": "marie.noer@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/mikrobiologi/index.shtml"
       },
       {
-        "title": "Skal jeg gi antibiotika?",
+        "title": "Should I Prescribe Antibiotics?",
         "description": "The course contains four modules with cases from an out-of-hours clinic, a GP office, a hospital and a nursing home. The course is intended for medical students who are about to go into, or have recently been in, clinical practice. It can also be useful for newly qualified doctors.\n\nLearning outcomes: After completing the course, you will be able to determine indications for antibiotics and communicate about antibiotic treatment across a range of conditions in primary and specialist healthcare services.\n\nPedagogy: The modules are built around cases with tasks you solve. Along the way you receive practical feedback. The course also contains a number of links with supplementary content.\n\nUsed: As a supplement to regular teaching.\n\nThe e-learning course is funded by SHE (Center for Sustainability in Health Education) and developed by the Antibiotic Center for Primary Care Medicine at the Department of General Practice, University of Oslo, with input from representatives from the medical faculties at the University of Bergen, the Norwegian University of Science and Technology, and UiT The Arctic University of Norway, KAS (National advisory unit for antibiotic use in specialist healthcare) and a reference group consisting of medical students.\n\nGo to the course, register as a new user, and enroll.\n\nThis e-learning resource was developed at: University of Oslo",
         "email": "post@antibiotikasenteret.no",
         "link": "https://kurs.antibiotikasenteret.no/course/view.php?id=7"
@@ -595,8 +597,8 @@
   },
   {
     "id": 33,
-    "title": "Medisinsk pedagogikk",
-    "submenuTitle": "Medisinsk pedagogikk",
+    "title": "Medical Education",
+    "submenuTitle": "Medical Education",
     "layout": "default",
     "content": [
       {
@@ -606,13 +608,13 @@
         "link": "https://svar.medisin.ntnu.no/"
       },
       {
-        "title": "SamPraks Introduksjonskurs",
+        "title": "SamPraks Introductory Course",
         "description": "This is a course offering in interprofessional collaborative learning for students in health and social sciences at the University of Oslo (as of March 2023) — for students in educational audiology, pharmacy, clinical nutrition, speech therapy, medicine, dentistry, psychology, nursing (OsloMet), and theology. The course consists of a mandatory introductory course and an e-learning resource in the form of a digital case study, in addition to two practice alternatives that are not shown here under e-learning resources. Learning outcomes: After the course you should: • Have knowledge and understanding of your own and others’ values, roles, and responsibilities in an interprofessional team. • Be able to reflect on the value of interdisciplinary collaboration within the health and welfare sector. • Be able to recognise other professions’ competence, responsibilities, and abilities. • Be able to reflect on your own professional standpoint in an interprofessional team, and how to establish committed collaboration and work towards shared values. • Be able to reflect on how you can contribute to good group dynamics in an interprofessional team with multiple roles so the team functions effectively. Teaching approach: Includes videos, exercises in the form of quizzes and reflection, and curriculum-related text. Used in: As an introduction to interprofessional collaborative learning at the University of Oslo for students in educational audiology, pharmacy, clinical nutrition, speech therapy, medicine, dentistry, psychology, nursing, and theology. The course is mandatory for all students who will participate in interprofessional teaching at the University of Oslo. Developed by: Faculty of Medicine — Lene Lunde (project coordinator), Morten Skoglund (video production, pedagogical design, technical facilitation, graphic design), Selma Evenstad (graphic design/illustration), and the SamPraks working group led by project manager Hilde Wøien, University of Oslo. Developed at: University of Oslo.",
         "email": "hilde.woien@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/sykepleie/sampraks/introduksjon/#/"
       },
       {
-        "title": "SamPraks kasuistikker",
+        "title": "SamPraks Case Studies",
         "description": "Represents a course offering in interprofessional collaborative learning for students in health and social sciences at the University of Oslo (as of March 2023)—for students in educational audiology, pharmacy, clinical nutrition, speech therapy, medicine, dentistry, psychology, nursing (OsloMet) and theology. The course consists of a mandatory introductory course and an e-learning resource in the form of a digital case, in addition to two practice alternatives that are not shown here under e-learning resources.\n\nLearning outcomes: The purpose of this course is to gain experience working in an interprofessional team through case-based interprofessional assessment/evaluation of a patient with complex and combined needs.\n\nPedagogy: Includes tasks in the form of cases, quizzes and reflection, as well as curriculum-related text.\n\nUsed in: Used as support for interprofessional collaborative learning in group teaching with students from educational audiology, pharmacy, clinical nutrition, speech therapy, medicine, dentistry, psychology, nursing and theology. The course is part of the interprofessional teaching at the University of Oslo.\n\nDeveloped by: Faculty of Medicine, by Lene Lunde (Project Coordinator), Morten Skoglund (Video production, pedagogical design, technical facilitation, graphic design) and Selma Evenstad (Graphic design/illustration), as well as the SamPraks working group led by project manager Hilde Wøien, University of Oslo.\n\nThis e-learning resource was developed at: University of Oslo",
         "email": "hilde.woien@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/sykepleie/sampraks/case/#/"
@@ -621,8 +623,8 @@
   },
   {
     "id": 34,
-    "title": "Medical statistics",
-    "submenuTitle": "Medical statistics",
+    "title": "Medical Statistics",
+    "submenuTitle": "Medical Statistics",
     "layout": "default",
     "content": [
       {
@@ -635,8 +637,8 @@
   },
   {
     "id": 35,
-    "title": "Medisinske atferdsfag",
-    "submenuTitle": "Medisinske atferdsfag",
+    "title": "Medical Behavioral Sciences",
+    "submenuTitle": "Medical Behavioral Sciences",
     "layout": "default",
     "content": [
       {
@@ -646,13 +648,53 @@
         "link": "https://studmed.uio.no/elaring/fag/atferdsfag/klinkom/index.html"
       },
       {
-        "title": "SamPraks Introduksjonskurs",
+        "title": "SamPraks Introductory Course",
         "description": "This is a course offering in interprofessional collaborative learning for students in health and social sciences at the University of Oslo (as of March 2023) — for students in educational audiology, pharmacy, clinical nutrition, speech therapy, medicine, dentistry, psychology, nursing (OsloMet), and theology. The course consists of a mandatory introductory course and an e-learning resource in the form of a digital case study, in addition to two practice alternatives that are not shown here under e-learning resources. Learning outcomes: After the course you should: • Have knowledge and understanding of your own and others’ values, roles, and responsibilities in an interprofessional team. • Be able to reflect on the value of interdisciplinary collaboration within the health and welfare sector. • Be able to recognise other professions’ competence, responsibilities, and abilities. • Be able to reflect on your own professional standpoint in an interprofessional team, and how to establish committed collaboration and work towards shared values. • Be able to reflect on how you can contribute to good group dynamics in an interprofessional team with multiple roles so the team functions effectively. Teaching approach: Includes videos, exercises in the form of quizzes and reflection, and curriculum-related text. Used in: As an introduction to interprofessional collaborative learning at the University of Oslo for students in educational audiology, pharmacy, clinical nutrition, speech therapy, medicine, dentistry, psychology, nursing, and theology. The course is mandatory for all students who will participate in interprofessional teaching at the University of Oslo. Developed by: Faculty of Medicine — Lene Lunde (project coordinator), Morten Skoglund (video production, pedagogical design, technical facilitation, graphic design), Selma Evenstad (graphic design/illustration), and the SamPraks working group led by project manager Hilde Wøien, University of Oslo. Developed at: University of Oslo.",
         "email": "hilde.woien@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/sykepleie/sampraks/introduksjon/#/"
       },
       {
-        "title": "SamPraks kasuistikker",
+        "title": "SamPraks Case Studies",
+        "description": "Represents a course offering in interprofessional collaborative learning for students in health and social sciences at the University of Oslo (as of March 2023)—for students in educational audiology, pharmacy, clinical nutrition, speech therapy, medicine, dentistry, psychology, nursing (OsloMet) and theology. The course consists of a mandatory introductory course and an e-learning resource in the form of a digital case, in addition to two practice alternatives that are not shown here under e-learning resources.\n\nLearning outcomes: The purpose of this course is to gain experience working in an interprofessional team through case-based interprofessional assessment/evaluation of a patient with complex and combined needs.\n\nPedagogy: Includes tasks in the form of cases, quizzes and reflection, as well as curriculum-related text.\n\nUsed in: Used as support for interprofessional collaborative learning in group teaching with students from educational audiology, pharmacy, clinical nutrition, speech therapy, medicine, dentistry, psychology, nursing and theology. The course is part of the interprofessional teaching at the University of Oslo.\n\nDeveloped by: Faculty of Medicine, by Lene Lunde (Project Coordinator), Morten Skoglund (Video production, pedagogical design, technical facilitation, graphic design) and Selma Evenstad (Graphic design/illustration), as well as the SamPraks working group led by project manager Hilde Wøien, University of Oslo.\n\nThis e-learning resource was developed at: University of Oslo",
+        "email": "hilde.woien@medisin.uio.no",
+        "link": "https://studmed.uio.no/elaring/fag/sykepleie/sampraks/case/#/"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "title": "Medical Statistics",
+    "submenuTitle": "Medical Statistics",
+    "layout": "default",
+    "content": [
+      {
+        "title": "SPSS",
+        "description": "Medical statistics is an applied subject, and statistical analysis of data is an important part of it. To perform analyses, we need access to and be able to use statistical software. SPSS is a software package well suited for analysis of medical data.\n\nThis e-learning resource was developed at: University of Oslo",
+        "email": "jangutt@medisin.uio.no",
+        "link": "https://studmed.uio.no/elaring/lcms16/med-statistikk-2016/spss/"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "title": "Medical Behavioral Sciences",
+    "submenuTitle": "Medical Behavioral Sciences",
+    "layout": "default",
+    "content": [
+      {
+        "title": "Clinical communication",
+        "description": "Learning outcomes: Learn important skills in clinical communication, and practice when and how these should be applied.\n\nPedagogy: Contains videos, tasks in the form of quizzes and reflection, and curriculum-related text.\n\nUsed in: A supplement to regular teaching in behavioral science in the medical programme in Oslo. The resource has different modules for different semesters and is adapted to the curriculum level.\n\nThis e-learning resource was developed at: University of Oslo",
+        "email": "arnstein.finset@medisin.uio.no",
+        "link": "https://studmed.uio.no/elaring/fag/atferdsfag/klinkom/index.html"
+      },
+      {
+        "title": "SamPraks Introductory Course",
+        "description": "This is a course offering in interprofessional collaborative learning for students in health and social sciences at the University of Oslo (as of March 2023) — for students in educational audiology, pharmacy, clinical nutrition, speech therapy, medicine, dentistry, psychology, nursing (OsloMet), and theology. The course consists of a mandatory introductory course and an e-learning resource in the form of a digital case study, in addition to two practice alternatives that are not shown here under e-learning resources. Learning outcomes: After the course you should: • Have knowledge and understanding of your own and others’ values, roles, and responsibilities in an interprofessional team. • Be able to reflect on the value of interdisciplinary collaboration within the health and welfare sector. • Be able to recognise other professions’ competence, responsibilities, and abilities. • Be able to reflect on your own professional standpoint in an interprofessional team, and how to establish committed collaboration and work towards shared values. • Be able to reflect on how you can contribute to good group dynamics in an interprofessional team with multiple roles so the team functions effectively. Teaching approach: Includes videos, exercises in the form of quizzes and reflection, and curriculum-related text. Used in: As an introduction to interprofessional collaborative learning at the University of Oslo for students in educational audiology, pharmacy, clinical nutrition, speech therapy, medicine, dentistry, psychology, nursing, and theology. The course is mandatory for all students who will participate in interprofessional teaching at the University of Oslo. Developed by: Faculty of Medicine — Lene Lunde (project coordinator), Morten Skoglund (video production, pedagogical design, technical facilitation, graphic design), Selma Evenstad (graphic design/illustration), and the SamPraks working group led by project manager Hilde Wøien, University of Oslo. Developed at: University of Oslo.",
+        "email": "hilde.woien@medisin.uio.no",
+        "link": "https://studmed.uio.no/elaring/fag/sykepleie/sampraks/introduksjon/#/"
+      },
+      {
+        "title": "SamPraks Case Studies",
         "description": "Represents a course offering in interprofessional collaborative learning for students in health and social sciences at the University of Oslo (as of March 2023)—for students in educational audiology, pharmacy, clinical nutrition, speech therapy, medicine, dentistry, psychology, nursing (OsloMet) and theology. The course consists of a mandatory introductory course and an e-learning resource in the form of a digital case, in addition to two practice alternatives that are not shown here under e-learning resources.\n\nLearning outcomes: The purpose of this course is to gain experience working in an interprofessional team through case-based interprofessional assessment/evaluation of a patient with complex and combined needs.\n\nPedagogy: Includes tasks in the form of cases, quizzes and reflection, as well as curriculum-related text.\n\nUsed in: Used as support for interprofessional collaborative learning in group teaching with students from educational audiology, pharmacy, clinical nutrition, speech therapy, medicine, dentistry, psychology, nursing and theology. The course is part of the interprofessional teaching at the University of Oslo.\n\nDeveloped by: Faculty of Medicine, by Lene Lunde (Project Coordinator), Morten Skoglund (Video production, pedagogical design, technical facilitation, graphic design) and Selma Evenstad (Graphic design/illustration), as well as the SamPraks working group led by project manager Hilde Wøien, University of Oslo.\n\nThis e-learning resource was developed at: University of Oslo",
         "email": "hilde.woien@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/sykepleie/sampraks/case/#/"
@@ -661,12 +703,12 @@
   },
   {
     "id": 36,
-    "title": "Nevrokirurgi",
-    "submenuTitle": "Nevrokirurgi",
+    "title": "Neurosurgery",
+    "submenuTitle": "Neurosurgery",
     "layout": "default",
     "content": [
       {
-        "title": "Nevrologiportalen",
+        "title": "The Neurology Portal",
         "description": "Learning outcomes: Help learners understand how a neurological examination is performed, demonstrate some specialized examination techniques, and—through videos and images—show neurological deficits and diseases, contributing to understanding of neurological diseases and what neurological deficits look like. Also covers the most common neurological procedures.\n\nPedagogy: A supplement to textbooks, lectures, clinics, skills courses in examination technique, and clinical small-group teaching. The resources are aligned with the neurology curriculum. Emphasis is placed on learning terminology and concepts, presenting clinical findings, and systematic examination technique with video. Virtual patients aim to improve clinical reasoning and increase insight. Quizzes and virtual patients support repetition and deeper understanding.\n\nUsed in: Adapted for the medical programme at the University of Oslo. Can also be used by Norwegian students at other universities in Norway and abroad, foreign doctors who want to work in Norway, or other healthcare personnel.\n\nPrerequisites: Basic medical knowledge.\n\nThis e-learning resource was developed at: University of Oslo",
         "email": "e.g.celius@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/nevrologi/index.shtml  "
@@ -680,13 +722,13 @@
     "layout": "default",
     "content": [
       {
-        "title": "Radiologi bildedatabase",
+        "title": "Radiology Image Database",
         "description": "A collection of images from radiological examinations, with descriptions of the examinations, descriptions of findings, and discussions of the role of the examinations in the work-up of various diseases.\n\nLearning outcomes: Find the appropriate imaging work-up for patients with varying symptoms and diseases. Learn to interpret examinations with pathological findings by comparing with normal examinations.\n\nPedagogy: Useful both in radiology teaching and as a supplement to clinical teaching. A supplement to a radiology textbook. Lectures, teaching objectives and the plan for group teaching are also available at radiologi.net.\n\nUsed in: Actively used in group teaching in Module 3 and 8. Imaging material in lectures is drawn from the database.\n\nThis e-learning resource was developed at: University of Oslo",
         "email": "knut.lundin@medisin.uio.no",
         "link": "https://prod-studmed.uio.no/radiologiark/"
       },
       {
-        "title": "Nevrologiportalen",
+        "title": "The Neurology Portal",
         "description": "Learning outcomes: Help learners understand how a neurological examination is performed, demonstrate some specialized examination techniques, and—through videos and images—show neurological deficits and diseases, contributing to understanding of neurological diseases and what neurological deficits look like. Also covers the most common neurological procedures.\n\nPedagogy: A supplement to textbooks, lectures, clinics, skills courses in examination technique, and clinical small-group teaching. The resources are aligned with the neurology curriculum. Emphasis is placed on learning terminology and concepts, presenting clinical findings, and systematic examination technique with video. Virtual patients aim to improve clinical reasoning and increase insight. Quizzes and virtual patients support repetition and deeper understanding.\n\nUsed in: Adapted for the medical programme at the University of Oslo. Can also be used by Norwegian students at other universities in Norway and abroad, foreign doctors who want to work in Norway, or other healthcare personnel.\n\nPrerequisites: Basic medical knowledge.\n\nThis e-learning resource was developed at: University of Oslo",
         "email": "e.g.celius@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/nevrologi/index.shtml  "
@@ -695,18 +737,18 @@
   },
   {
     "id": 38,
-    "title": "Nyresykdommer",
-    "submenuTitle": "Nyresykdommer",
+    "title": "Kidney Diseases",
+    "submenuTitle": "Kidney Diseases",
     "layout": "default",
     "content": [
       {
-        "title": "Radiologi bildedatabase",
+        "title": "Radiology Image Database",
         "description": "A collection of images from radiological examinations, with descriptions of the examinations, descriptions of findings, and discussions of the role of the examinations in the work-up of various diseases.\n\nLearning outcomes: Find the appropriate imaging work-up for patients with varying symptoms and diseases. Learn to interpret examinations with pathological findings by comparing with normal examinations.\n\nPedagogy: Useful both in radiology teaching and as a supplement to clinical teaching. A supplement to a radiology textbook. Lectures, teaching objectives and the plan for group teaching are also available at radiologi.net.\n\nUsed in: Actively used in group teaching in Module 3 and 8. Imaging material in lectures is drawn from the database.\n\nThis e-learning resource was developed at: University of Oslo",
         "email": "knut.lundin@medisin.uio.no",
         "link": "https://prod-studmed.uio.no/radiologiark/"
       },
       {
-        "title": "Nyresykdommer",
+        "title": "Kidney Diseases",
         "description": "This e-learning resource is built around case studies based on symptom diagnoses as an approach to renal physiology and pathophysiology. The program is intended as a supplement to regular teaching and textbooks.\n\nLearning outcomes: Help learners reason about and understand clinical and biochemical disturbances that occur in disease processes in the structures of the kidneys.\n\nPedagogy: The resource uses images, text, animations and interactive case studies (“virtual patients”). It links content from basic sciences, para-clinical subjects and nephrology together in a large learning matrix. The cases do not cover the complete spectrum of kidney diseases and must be used together with nephrology textbooks.\n\nUsed in: Teaching medical students at the University of Oslo.\n\nThis e-learning resource was developed at: University of Oslo",
         "email": "b.e.waldum-grevbo@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/nyresykdommer/index.shtml"
@@ -715,12 +757,12 @@
   },
   {
     "id": 39,
-    "title": "Odontologi",
-    "submenuTitle": "Odontologi",
+    "title": "Odontology",
+    "submenuTitle": "Odontology",
     "layout": "default",
     "content": [
       {
-        "title": "Oral patologi",
+        "title": "Oral Pathology",
         "description": "Oral pathology: Oral pathology is the study of diseases of the oral cavity and surrounding tissues. The field includes diseases of the teeth and their supporting structures, jaws, oral mucosa, salivary glands and temporomandibular joint. Oral pathology provides the foundation for further teaching and patient treatment in the clinic. Teaching is divided into thematic areas and includes lectures and seminars in semesters 5–9 as well as “slide of the week” in semester 9.\n\nLearning outcomes: The digital course slides are intended to support the teaching provided. The slides show examples of conditions/diseases within the various thematic areas. Students are recommended to make sketches of the slides. The learning objectives are available on each semester’s homepage. The digital slides are intended for use in seminars, but also for self-study.\n\nThis e-learning resource was developed at the University of Oslo.\n\nContact: t.m.soland@odont.uio.no\n\nThis e-learning resource was developed at: University of Oslo",
         "email": "t.m.soland@odont.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/odontology/index.shtml"
@@ -734,7 +776,7 @@
     "layout": "default",
     "content": [
       {
-        "title": "Palliativ onkologi",
+        "title": "Palliative Oncology",
         "description": "This e-learning resource is a supplement to other teaching on cancer, palliative medicine, and parts of the teaching in medical behavioral sciences at the Faculty of Medicine in Oslo. It is primarily made for medical students and LIS1 (interns) and is based on the faculty’s learning objectives and learning outcome descriptions.\n\nLearning outcomes: Provide theoretical background for the most central elements of palliative cancer care. Information on how to communicate with patients and relatives in challenging clinical situations. Concrete suggestions for what you can say in these situations are presented in each lesson.\n\nPedagogy: A reference resource to support preparation for treatment and conversations with patients and relatives. Describes concrete situations with suggestions for what to say, with video illustrations.\n\nUsed in: Basic teaching as a supplement to lectures and group teaching, and in clinical practice as a student or LIS1.\n\nThis e-learning resource was developed at: University of Oslo",
         "email": "n.k.aass@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/onkologi/palliasjon/index.shtml"
@@ -748,14 +790,14 @@
     "layout": "default",
     "content": [
       {
-        "title": "Radiologi bildedatabase",
+        "title": "Radiology Image Database",
         "description": "A collection of images from radiological examinations, with descriptions of the examinations, descriptions of findings, and discussions of the role of the examinations in the work-up of various diseases.\n\nLearning outcomes: Find the appropriate imaging work-up for patients with varying symptoms and diseases. Learn to interpret examinations with pathological findings by comparing with normal examinations.\n\nPedagogy: Useful both in radiology teaching and as a supplement to clinical teaching. A supplement to a radiology textbook. Lectures, teaching objectives and the plan for group teaching are also available at radiologi.net.\n\nUsed in: Actively used in group teaching in Module 3 and 8. Imaging material in lectures is drawn from the database.\n\nThis e-learning resource was developed at: University of Oslo",
         "email": "knut.lundin@medisin.uio.no",
         "link": "https://prod-studmed.uio.no/radiologiark/"
       },
       {
-        "title": "The musculoskeletal system",
-         "description": "The e-learning resource on the musculoskeletal system is intended as a supplement to the clinical teaching on the musculoskeletal system for medical students. On these pages you can both read and watch images/diagrams and videos that demonstrate how to examine the different joints. In addition, you will find patient histories and quizzes. The resource was developed during 2015–2018. The medical students Caroline Kooy Tveiten, Hannah Ugletveit Jahr and Alexander Øvestad produced texts, drawings and videos together with lecturers primarily within Orthopaedic Surgery at Oslo University Hospital, Orthopaedics Clinic (Elbow: Stein Tyrdal; Ankle/Foot: Are Stødle; Hand: Magne Røkkum; Shoulder: Berte Bøe; Hip: Lars Nordsletten; Knee: Lars Engebretsen), as well as Physical Medicine with Professor Jens Ivar Brox (Back and neck). Professor Lars Engebretsen was the academic lead for the project. Learning outcomes: Learn to perform correct joint examinations of patients with varying symptoms and trauma/disease. Learn to interpret examinations with pathological findings by comparing them with normal examinations. Teaching approach: The resource is structured as a reference work with a main emphasis on practical examination technique. Self-testing is included in the form of quizzes and virtual patients so that students can check their learning process. Useful in orthopaedics, physical medicine and rheumatology teaching, and as a supplement for later clinical work. Supplement to an orthopaedics textbook. Used in: Actively used in group teaching in modules 3 and 8, and as a supplement to lectures within the same topics. In module 3, students acquire basic knowledge about the musculoskeletal system’s normal structure and function and learn relevant examination methodology. Module 8 focuses mainly on pathology knowledge, using relevant examinations further in diagnostic work, and further treatment of the patient’s problem. Developed at: University of Oslo.",
+        "title": "The Musculoskeletal System",
+        "description": "The e-learning resource on the musculoskeletal system is intended as a supplement to the clinical teaching on the musculoskeletal system for medical students. On these pages you can both read and watch images/diagrams and videos that demonstrate how to examine the different joints. In addition, you will find patient histories and quizzes. The resource was developed during 2015–2018. The medical students Caroline Kooy Tveiten, Hannah Ugletveit Jahr and Alexander Øvestad produced texts, drawings and videos together with lecturers primarily within Orthopaedic Surgery at Oslo University Hospital, Orthopaedics Clinic (Elbow: Stein Tyrdal; Ankle/Foot: Are Stødle; Hand: Magne Røkkum; Shoulder: Berte Bøe; Hip: Lars Nordsletten; Knee: Lars Engebretsen), as well as Physical Medicine with Professor Jens Ivar Brox (Back and neck). Professor Lars Engebretsen was the academic lead for the project.\n\nLearning outcomes: Learn to perform correct joint examinations of patients with varying symptoms and trauma/disease. Learn to interpret examinations with pathological findings by comparing them with normal examinations.\n\nTeaching approach: The resource is structured as a reference work with a main emphasis on practical examination technique. Self-testing is included in the form of quizzes and virtual patients so that students can check their learning process. Useful in orthopaedics, physical medicine and rheumatology teaching, and as a supplement for later clinical work. Supplement to an orthopaedics textbook.\n\nUsed in: Actively used in group teaching in modules 3 and 8, and as a supplement to lectures within the same topics. In module 3, students acquire basic knowledge about the musculoskeletal system’s normal structure and function and learn relevant examination methodology. Module 8 focuses mainly on pathology knowledge, using relevant examinations further in diagnostic work, and further treatment of the patient’s problem.\n\nThis e-learning resource was developed at: University of Oslo.",
         "email": " lars.engebretsen@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/ortopedi/index.shtml"
       }
@@ -777,12 +819,12 @@
   },
   {
     "id": 43,
-    "title": "Plastikkirurgi",
-    "submenuTitle": "Plastikkirurgi",
+    "title": "Plastic Surgery",
+    "submenuTitle": "Plastic Surgery",
     "layout": "default",
     "content": [
       {
-        "title": "Basal kirurgisk teknikk",
+        "title": "Basic Surgical Technique",
         "description": "This course consists of theory and short instructional videos to learn basic skills in surgical technique. Use of instruments and different suture techniques are shown.\n\nLearning outcomes: Demonstrates correct techniques that can be used to prepare before courses and small-group sessions, and for revision throughout the programme.\n\nPedagogy: Useful both for clinical placements and as a supplement to clinical teaching.\n\nUsed in: Actively used in group teaching in Module 8.\n\nThis e-learning resource was developed at: University of Oslo",
         "email": " henriesu@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/kirurgi/basal_kirurgisk_teknikk"
@@ -791,8 +833,8 @@
   },
   {
     "id": 44,
-    "title": "Propedeutikk",
-    "submenuTitle": "Propedeutikk",
+    "title": "Propedeutics",
+    "submenuTitle": "Propedeutics",
     "layout": "default",
     "content": [
       {
@@ -802,8 +844,8 @@
         "link": "https://studmed.uio.no/elaring/fag/atferdsfag/klinkom/index.html"
       },
       {
-        "title": "Veiledning i journalopptak for legestudenter",
-        "description": "JournalWiki is an interactive e-learning resource in medical history taking and clinical examination methodology (propedeutics). It provides an introduction to basic history taking and examination (status presens), with hyperlinks to articles, images, videos, glossary explanations, and (eventually) quizzes. The target audience is Norwegian medical students in Norway and abroad, primarily early in their studies. However, there are also guides on examination techniques for more advanced learners, such as neurological examination and procedures like lumbar puncture, as well as corresponding advanced topics within other subject areas (some of which are under development). Subject areas: Internal medicine; Surgery/Orthopaedics; General practice; Neurology; Ophthalmology; ENT; Dermatology; Paediatrics (history taking and examination of children, infants and newborns); Psychiatry; Rheumatology. JournalWiki also includes a basic introduction to supplementary tests the clinician must be able to interpret independently as part of the clinical examination: Radiology (X-ray, CT, MRI, PET-CT, ultrasound, scintigraphy, etc.); Clinical biochemistry (interpretation of blood tests in various settings); Microscopy (urine, blood smear, etc.); Spirometry; ECG; and more. Work on JournalWiki has been led by Arne Westgaard at the Skills Centre at Rikshospitalet. Contributors so far have included students, fellows, clinicians, professors, and IT specialists at UiO. Contributors from other faculties are welcome. Students with good medical knowledge and above-average computing skills can complete a semester project or work for pay to further develop the resource. Contact: Knut Lundin. Developed at: University of Oslo.",
+        "title": "Guidance in Medical History Taking for Medical Students",
+        "description": "JournalWiki is an interactive e-learning resource in medical history taking and clinical examination methodology (propedeutics). It provides an introduction to basic history taking and examination (status presens), with hyperlinks to articles, images, videos, glossary explanations, and (eventually) quizzes. The target audience is Norwegian medical students in Norway and abroad, primarily early in their studies. However, there are also guides on examination techniques for more advanced learners, such as neurological examination and procedures like lumbar puncture, as well as corresponding advanced topics within other subject areas (some of which are under development).\n\nSubject areas: Internal medicine; Surgery/Orthopaedics; General practice; Neurology; Ophthalmology; ENT; Dermatology; Paediatrics (history taking and examination of children, infants and newborns); Psychiatry; Rheumatology.\n\nJournalWiki also includes a basic introduction to supplementary tests the clinician must be able to interpret independently as part of the clinical examination: Radiology (X-ray, CT, MRI, PET-CT, ultrasound, scintigraphy, etc.); Clinical biochemistry (interpretation of blood tests in various settings); Microscopy (urine, blood smear, etc.); Spirometry; ECG; and more.\n\nWork on JournalWiki has been led by Arne Westgaard at the Skills Centre at Rikshospitalet. Contributors so far have included students, fellows, clinicians, professors, and IT specialists at UiO. Contributors from other faculties are welcome. Students with good medical knowledge and above-average computing skills can complete a semester project or work for pay to further develop the resource.\n\nContact: Knut Lundin.\n\nThis e-learning resource was developed at: University of Oslo.",
         "email": "knut.lundin@medisin.uio.no",
         "link": "https://studmed.uio.no/journalwiki/"
       },
@@ -814,8 +856,8 @@
         "link": "https://studmed.uio.no/elaring/fag/endokrinologi/thyreoidea/index.shtml"
       },
       {
-        "title": "Lenker til Jornalwiki-videoer",
-        "description": "\nEn samling av lenker til manglende videoer i Journalwiki.\n",
+        "title": "Links to JournalWiki Videos",
+        "description": "\nA collection of links to missing videos in JournalWiki.\n",
         "email": "e-laring@medisin.uio.no",
         "link": "https://prod-studmed.uio.no/journalwiki/videolenker.html"
       }
@@ -834,43 +876,43 @@
         "link": "https://studmed.uio.no/elaring/fag/atferdsfag/klinkom/index.html"
       },
       {
-        "title": "Psykiatriportalen",
+        "title": "The Psychiatry Portal",
         "description": "The Psychiatry Portal is a collection of self-produced e-learning resources that demonstrate psychiatric interviews with patients with various complaints, and psychodynamically oriented psychotherapy.\n\nPedagogy: Video case studies.\n\nUsed by: Students in Module 5 of the medical programme in Oslo.\n\nThis e-learning resource was developed at: University of Oslo",
         "email": "jangutt@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/psykiatri/index.shtml"
       },
       {
-        "title": "Vurdering av samtykkekompetanse",
+        "title": "Assessment of Decision-Making Capacity",
         "description": "Learning outcomes: The course focuses on assessing decision-making capacity (capacity to consent), with a particular focus on mental health care.\n\nPedagogy: Contains text, videos and tasks in the form of reflection questions.\n\nUsed by: Physicians, medical students, healthcare personnel (especially within psychiatry), and people working with issues of consent and coercion in mental health care.\n\nThis e-learning resource was developed at: University of Oslo",
         "email": "jorgen.dahlberg@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/etikk/samtykke/index.shtml"
       },
       {
-        "title": "Psykopoden - Podcast om psykiske lidelser",
+        "title": "Psykopoden – Podcast on Mental Disorders",
         "description": "This e-learning program provides an introduction to what mental disorders are, the causes of different mental disorders, how many people are affected, and how they can best be prevented and treated. The program is intended as an introduction/supplement to regular teaching and for revision.\n\nLearning outcomes: The topics covered in the podcast reflect the learning objectives at the University of Oslo. However, they do not cover all objectives in sufficient depth and should be considered an introduction or supplement. Through relatively short episodes (most about 20 minutes), an introduction is provided to topics that are also included in the learning objectives in psychiatry, including: What are mental disorders? What is psychosis? Anxiety disorders, depressive disorders, eating disorders, psychotic disorders, ADHD, autism, bipolar disorders, trauma-related disorders, personality disorders, old-age psychiatry, forensic psychiatry, acute psychiatry, outpatient treatment, suicide, and criminal responsibility/forensic psychiatry. In addition, treatment methods are covered: psychotherapy in general, cognitive behavioral therapy, psychodynamic therapy, family work, antidepressants, mood stabilizers, and antipsychotics. The legal framework and challenges related to the use of coercion, as well as assessment of criminal responsibility, are also discussed.\n\nPedagogy: The e-learning is a podcast—audio recordings of conversations. In addition to the regular Psykopoden contributors, subject-matter experts are invited as conversation partners.\n\nUsed in: The Psychiatry and Addiction Medicine module (Module 5) at the University of Oslo.\n\nThis e-learning resource was developed at: University of Oslo",
         "email": "j.i.rossberg@medisin.uio.no",
         "link": "https://www.med.uio.no/tjenester/kunnskap/psykopoden/episoder/"
       },
       {
-        "title": "Depresjon",
+        "title": "Depression",
         "description": "Learning outcomes: Learn important skills for assessing depression and its severity.\n\nPedagogy: The course contains videos, tasks in the form of quizzes and reflection, as well as text.\n\nUsed in: A supplement to regular psychiatry teaching in Module 5 of the medical programme in Oslo.\n\nThis e-learning resource was developed at: University of Oslo",
         "email": "randi.ulberg@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/psykiatri/depresjon"
       },
       {
-        "title": "Spiseforstyrrelse",
+        "title": "Eating Disorders",
         "description": "Learning outcomes: Learn important skills for assessing psychosis.\n\nPedagogy: The course contains videos, tasks in the form of quizzes and reflection, as well as text.\n\nUsed in: A supplement to regular psychiatry teaching in Module 5 of the medical programme in Oslo.\n\nThis e-learning resource was developed at: University of Oslo",
         "email": "randi.ulberg@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/psykiatri/spiseforstyrrelser/"
       },
       {
-        "title": "Psykose",
+        "title": "Psychosis",
         "description": "Learning outcomes: Learn important skills for assessing psychosis.\n\nPedagogy: The course contains videos, tasks in the form of quizzes and reflection, as well as text.\n\nUsed in: A supplement to regular psychiatry teaching in Module 5 of the medical programme in Oslo.\n\nThis e-learning resource was developed at: University of Oslo",
         "email": "randi.ulberg@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/psykiatri/psykose/"
       },
       {
-        "title": "Angst",
+        "title": "Anxiety",
         "description": "Learning outcomes: Learn important skills for assessing anxiety.\n\nPedagogy: The course contains videos, text, and tasks in the form of quizzes and reflection assignments.\n\nUsed in: A supplement to regular psychiatry teaching in Module 5 of the medical programme in Oslo.\n\nThis e-learning resource was developed at: University of Oslo",
         "email": "randi.ulberg@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/psykiatri/angst/"
@@ -884,19 +926,19 @@
     "layout": "default",
     "content": [
       {
-        "title": "Radiologi bildedatabase",
+        "title": "Radiology Image Database",
         "description": "A collection of images from radiological examinations, with descriptions of the examinations, descriptions of findings, and discussions of the role of the examinations in the work-up of various diseases.\n\nLearning outcomes: Find the appropriate imaging work-up for patients with varying symptoms and diseases. Learn to interpret examinations with pathological findings by comparing with normal examinations.\n\nPedagogy: Useful both in radiology teaching and as a supplement to clinical teaching. A supplement to a radiology textbook. Lectures, teaching objectives and the plan for group teaching are also available at radiologi.net.\n\nUsed in: Actively used in group teaching in Module 3 and 8. Imaging material in lectures is drawn from the database.\n\nThis e-learning resource was developed at: University of Oslo",
         "email": "knut.lundin@medisin.uio.no",
         "link": "https://prod-studmed.uio.no/radiologiark/"
       },
       {
         "title": "Radiology",
-        "description": "\n«under arbeid – ikke alt virker».\n",
+        "description": "\n“Work in progress — not everything works”.\n",
         "email": "knut.lundin@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/radiologi/index.shtml"
       },
       {
-        "title": "Ultralyd",
+        "title": "Ultrasound",
         "description": "Ultrasound is used almost everywhere, so it may seem strange that there hasn’t been more teaching earlier. This is related to the fact that training is highly practical—you don’t learn ultrasound from a lecture; you have to perform examinations yourself, under supervision, to understand how to use the method. Because it requires so much one-to-one teaching, it has been, and still is, a barrier to delivering good instruction.\n\nThis e-learning resource was developed at: University of Oslo",
         "email": "knut.lundin@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/ultralyd/index.shtml#/"
@@ -905,25 +947,25 @@
   },
   {
     "id": 47,
-    "title": "Rettsmedisin",
-    "submenuTitle": "Rettsmedisin",
+    "title": "Forensic Medicine",
+    "submenuTitle": "Forensic Medicine",
     "layout": "default",
     "content": []
   },
   {
     "id": 48,
-    "title": "Revmatologi",
-    "submenuTitle": "Revmatologi",
+    "title": "Rheumatology",
+    "submenuTitle": "Rheumatology",
     "layout": "default",
     "content": [
       {
-        "title": "The musculoskeletal system",
-         "description": "The e-learning resource on the musculoskeletal system is intended as a supplement to the clinical teaching on the musculoskeletal system for medical students. On these pages you can both read and watch images/diagrams and videos that demonstrate how to examine the different joints. In addition, you will find patient histories and quizzes. The resource was developed during 2015–2018. The medical students Caroline Kooy Tveiten, Hannah Ugletveit Jahr and Alexander Øvestad produced texts, drawings and videos together with lecturers primarily within Orthopaedic Surgery at Oslo University Hospital, Orthopaedics Clinic (Elbow: Stein Tyrdal; Ankle/Foot: Are Stødle; Hand: Magne Røkkum; Shoulder: Berte Bøe; Hip: Lars Nordsletten; Knee: Lars Engebretsen), as well as Physical Medicine with Professor Jens Ivar Brox (Back and neck). Professor Lars Engebretsen was the academic lead for the project. Learning outcomes: Learn to perform correct joint examinations of patients with varying symptoms and trauma/disease. Learn to interpret examinations with pathological findings by comparing them with normal examinations. Teaching approach: The resource is structured as a reference work with a main emphasis on practical examination technique. Self-testing is included in the form of quizzes and virtual patients so that students can check their learning process. Useful in orthopaedics, physical medicine and rheumatology teaching, and as a supplement for later clinical work. Supplement to an orthopaedics textbook. Used in: Actively used in group teaching in modules 3 and 8, and as a supplement to lectures within the same topics. In module 3, students acquire basic knowledge about the musculoskeletal system’s normal structure and function and learn relevant examination methodology. Module 8 focuses mainly on pathology knowledge, using relevant examinations further in diagnostic work, and further treatment of the patient’s problem. Developed at: University of Oslo.",
+        "title": "The Musculoskeletal System",
+        "description": "The e-learning resource on the musculoskeletal system is intended as a supplement to the clinical teaching on the musculoskeletal system for medical students. On these pages you can both read and watch images/diagrams and videos that demonstrate how to examine the different joints. In addition, you will find patient histories and quizzes. The resource was developed during 2015–2018. The medical students Caroline Kooy Tveiten, Hannah Ugletveit Jahr and Alexander Øvestad produced texts, drawings and videos together with lecturers primarily within Orthopaedic Surgery at Oslo University Hospital, Orthopaedics Clinic (Elbow: Stein Tyrdal; Ankle/Foot: Are Stødle; Hand: Magne Røkkum; Shoulder: Berte Bøe; Hip: Lars Nordsletten; Knee: Lars Engebretsen), as well as Physical Medicine with Professor Jens Ivar Brox (Back and neck). Professor Lars Engebretsen was the academic lead for the project. Learning outcomes: Learn to perform correct joint examinations of patients with varying symptoms and trauma/disease. Learn to interpret examinations with pathological findings by comparing them with normal examinations. Teaching approach: The resource is structured as a reference work with a main emphasis on practical examination technique. Self-testing is included in the form of quizzes and virtual patients so that students can check their learning process. Useful in orthopaedics, physical medicine and rheumatology teaching, and as a supplement for later clinical work. Supplement to an orthopaedics textbook. Used in: Actively used in group teaching in modules 3 and 8, and as a supplement to lectures within the same topics. In module 3, students acquire basic knowledge about the musculoskeletal system’s normal structure and function and learn relevant examination methodology. Module 8 focuses mainly on pathology knowledge, using relevant examinations further in diagnostic work, and further treatment of the patient’s problem. Developed at: University of Oslo.",
         "email": " lars.engebretsen@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/ortopedi/index.shtml"
       },
       {
-        "title": "Radiologi bildedatabase",
+        "title": "Radiology Image Database",
         "description": "A collection of images from radiological examinations, with descriptions of the examinations, descriptions of findings, and discussions of the role of the examinations in the work-up of various diseases.\n\nLearning outcomes: Find the appropriate imaging work-up for patients with varying symptoms and diseases. Learn to interpret examinations with pathological findings by comparing with normal examinations.\n\nPedagogy: Useful both in radiology teaching and as a supplement to clinical teaching. A supplement to a radiology textbook. Lectures, teaching objectives and the plan for group teaching are also available at radiologi.net.\n\nUsed in: Actively used in group teaching in Module 3 and 8. Imaging material in lectures is drawn from the database.\n\nThis e-learning resource was developed at: University of Oslo",
         "email": "knut.lundin@medisin.uio.no",
         "link": "https://prod-studmed.uio.no/radiologiark/"
@@ -932,25 +974,25 @@
   },
   {
     "id": 49,
-    "title": "Samfunnsmedisin",
-    "submenuTitle": "Samfunnsmedisin",
+    "title": "Social Medicine",
+    "submenuTitle": "Social Medicine",
     "layout": "default",
     "content": []
   },
   {
     "id": 50,
-    "title": "Sykepleie",
-    "submenuTitle": "Sykepleie",
+    "title": "Nursing",
+    "submenuTitle": "Nursing",
     "layout": "default",
     "content": [
       {
-        "title": "Assessment of complex health problems in older adults",
+        "title": "Assessment of Complex Health Problems in Older Adults",
         "description": "Learning outcomes: Solve situation-specific, complex health problems in older adults that require systematic assessment, clinical evaluation and targeted, patient-centered interventions.\n\nPedagogy: The resource aims to strengthen practice-near teaching of systematic assessments for challenges such as chronic illness, cognitive impairment, nutrition and communication/contact. It presents strategies for systematic examination and challenges the learner to analyze strengths, weaknesses and the need for contextual adaptation based on subjective signs and objective data and findings from recognized assessment, screening and quality-of-life instruments. It introduces techniques and examination strategies, provides interactive tasks with feedback, and shows reflection sequences, in addition to tasks specifically for the master’s programme “advanced geriatric nursing”.\n\nUsed in: The master’s programme “advanced geriatric nursing” and as an introduction to geriatrics and general practice.\n\nPrerequisites: Anatomy, physiology, basic nursing.\n\nThis e-learning resource was developed at: University of Oslo",
         "email": " anne.moen@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/sykepleie/ags/forside/"
       },
       {
-        "title": "Medication calculation and practical medication handling",
+        "title": "Medication Calculation and Practical Medication Management",
         "description": "Learning outcomes: Provide medical students with an overview of medication calculations and practical medication handling, including setting up infusion sets, diluting injection and infusion fluids, and calculating infusion rates.\n\nPedagogy: The e-learning course is structured into 6 chapters consisting of short texts, illustrative images and clinical cases with multiple-choice calculation tasks.\n\nUsed in: Developed as a supplement to skills courses at the Skills Centre at UiO on inserting peripheral venous catheters, setting up infusion sets, and giving subcutaneous and intramuscular injections. The course can also be used as a supplement to teaching in anesthesiology.\n\nPrerequisites: Basic medical knowledge.\n\nThis e-learning resource was developed at: University of Oslo",
         "email": "ferdighetssenteret@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/ferdighetssenteret/legemiddelregning/index.shtml"
@@ -959,29 +1001,29 @@
   },
   {
     "id": 51,
-    "title": "Testfag",
-    "submenuTitle": "Testfag",
+    "title": "Test Subject",
+    "submenuTitle": "Test Subject",
     "layout": "default",
     "content": []
   },
   {
     "id": 52,
-    "title": "Thoraxkirurgi",
-    "submenuTitle": "Thoraxkirurgi",
+    "title": "Thoracic Surgery",
+    "submenuTitle": "Thoracic Surgery",
     "layout": "default",
     "content": []
   },
   {
     "id": 53,
-    "title": "Urologi",
-    "submenuTitle": "Urologi",
+    "title": "Urology",
+    "submenuTitle": "Urology",
     "layout": "default",
     "content": []
   },
   {
     "id": 54,
-    "title": "Ear, nose and throat (ENT)",
-    "submenuTitle": "Ear, nose and throat (ENT)",
+    "title": "Ear, Nose and Throat (ENT)",
+    "submenuTitle": "Ear, Nose and Throat (ENT)",
     "layout": "default",
     "content": []
   },
