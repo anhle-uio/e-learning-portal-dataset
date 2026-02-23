@@ -1,12 +1,12 @@
 [
   {
     "id": 1,
-    "title": "E-Læring for helseutdanning",
+    "title": "Digitale ressurser for helseutdanning",
     "submenuTitle": "Introduksjon",
     "layout": "default",
     "content": [
       {
-        "title": "E-Læring for helseutdanning",
+        "title": "Digitale ressurser for helseutdanning",
         "description": "\nVelkommen til e-læringsportalen! E-læringsportalen er en samling av gamle og nye e-læringsressurser for helseutdanning ved Universitetet i Oslo. \nDu finner en oversikt over alle e-læringsressursene i menyen til venstre. Dersom du vil delta i, eller har forslag til, et e-læringsprosjekt,\nkan du kontakte Seksjon for helsevitenskapelig pedagogikk (HELP).",
         "email": "e-laring@medisin.uio.no"
       }
