@@ -342,10 +342,10 @@
         "email": " ferdighetssenteret@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/ferdighetssenteret/legemiddelregning/index.shtml"
       },
-      {
+              {
         "title": "Basic Surgical Technique",
-        "description": "\nThis course consists of theory and short instructional videos to teach basic skills in surgical technique. The use of instruments and different suturing techniques are demonstrated.\n\nLearning outcomes: Demonstrate correct technique that can be used for learning ahead of courses and small groups, as well as for repetition throughout the program.\n\nPedagogy: Useful both for clinical placements and as a supplement to clinical teaching.\n\nUsed in: Used actively in small-group teaching in Module 8.\nThe e-learning resource was developed at: University of Oslo\n",
-        "email": "henriesu@medisin.uio.no",
+        "description": "This course consists of theory and short instructional videos to learn basic skills in surgical technique. Use of instruments and different suture techniques are shown.\n\nLearning outcomes: Demonstrates correct techniques that can be used to prepare before courses and small-group sessions, and for revision throughout the programme.\n\nPedagogy: Useful both for clinical placements and as a supplement to clinical teaching.\n\nUsed in: Actively used in group teaching in Module 8.\n\nThis e-learning resource was developed at: University of Oslo",
+        "email": " henriesu@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/kirurgi/basal_kirurgisk_teknikk"
       }
     ]
@@ -823,7 +823,7 @@
     "submenuTitle": "Plastic Surgery",
     "layout": "default",
     "content": [
-      {
+                      {
         "title": "Basic Surgical Technique",
         "description": "This course consists of theory and short instructional videos to learn basic skills in surgical technique. Use of instruments and different suture techniques are shown.\n\nLearning outcomes: Demonstrates correct techniques that can be used to prepare before courses and small-group sessions, and for revision throughout the programme.\n\nPedagogy: Useful both for clinical placements and as a supplement to clinical teaching.\n\nUsed in: Actively used in group teaching in Module 8.\n\nThis e-learning resource was developed at: University of Oslo",
         "email": " henriesu@medisin.uio.no",
