@@ -38,9 +38,9 @@
     "submenuTitle": "General Practice",
     "layout": "default",
     "content": [
-      {
-        "title": "Clinical Communication",
-        "description": "\nLearning outcomes: Learn important skills in clinical communication, and practice when and how these should be applied.\nPedagogy: Contains videos, tasks in the form of quizzes and reflection, as well as curriculum-related text.\nUsed in: A supplement to regular teaching in behavioral sciences in the medical program in Oslo. The resource has different modules for the different semesters and is adapted to the curriculum level.",
+        {
+        "title": "Clinical communication",
+        "description": "Learning outcomes: Learn important skills in clinical communication, and practice when and how these should be applied.\n\nPedagogy: Contains videos, tasks in the form of quizzes and reflection, and curriculum-related text.Used in: A supplement to regular teaching in behavioral science in the medical programme in Oslo. The resource has different modules for different semesters and is adapted to the curriculum level. This e-learning resource was developed at: University of Oslo",
         "email": "arnstein.finset@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/atferdsfag/klinkom/index.html"
       },
@@ -130,9 +130,9 @@
     "submenuTitle": "Pediatrics",
     "layout": "default",
     "content": [
-      {
-        "title": "Clinical Communication",
-        "description": "\nLearning outcomes: Learn important skills in clinical communication, and practice when and how these should be applied.\nPedagogy: Contains videos, tasks in the form of quizzes and reflection, as well as curriculum-related text.\nUsed in: A supplement to regular teaching in behavioral sciences in the medical program in Oslo. The resource has different modules for the different semesters and is adapted to the curriculum level.\nThe e-learning resource was developed at: University of Oslo\n",
+        {
+        "title": "Clinical communication",
+        "description": "Learning outcomes: Learn important skills in clinical communication, and practice when and how these should be applied.\n\nPedagogy: Contains videos, tasks in the form of quizzes and reflection, and curriculum-related text.Used in: A supplement to regular teaching in behavioral science in the medical programme in Oslo. The resource has different modules for different semesters and is adapted to the curriculum level. This e-learning resource was developed at: University of Oslo",
         "email": "arnstein.finset@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/atferdsfag/klinkom/index.html"
       },
@@ -324,10 +324,10 @@
     "submenuTitle": "General Surgery",
     "layout": "default",
     "content": [
-      {
-        "title": "Clinical Communication",
-        "description": "\nLearning outcomes: Learn important skills in clinical communication, and practice when and how these should be applied.\nPedagogy: Contains videos, tasks in the form of quizzes and reflection, as well as curriculum-related text.\nUsed in: A supplement to regular teaching in behavioral sciences in the medical program in Oslo. The resource has different modules for the different semesters and is adapted to the curriculum level.\nThe e-learning resource was developed at: University of Oslo\nContact: Hanne Cathrine Lie\n",
-        "email": "h.c.lie@medisin.uio.no",
+       {
+        "title": "Clinical communication",
+        "description": "Learning outcomes: Learn important skills in clinical communication, and practice when and how these should be applied.\n\nPedagogy: Contains videos, tasks in the form of quizzes and reflection, and curriculum-related text.Used in: A supplement to regular teaching in behavioral science in the medical programme in Oslo. The resource has different modules for different semesters and is adapted to the curriculum level. This e-learning resource was developed at: University of Oslo",
+        "email": "arnstein.finset@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/atferdsfag/klinkom/index.html"
       },
       {
@@ -356,9 +356,9 @@
     "submenuTitle": "Geriatrics",
     "layout": "default",
     "content": [
-      {
+       {
         "title": "Clinical communication",
-        "description": "Learning outcomes: Learn important skills in clinical communication, and practice when and how these should be applied.\n\nPedagogy: Contains videos, tasks in the form of quizzes and reflection, and curriculum-related text.\n\nUsed in: A supplement to regular teaching in behavioral science in the medical programme in Oslo. The resource has different modules for different semesters and is adapted to the curriculum level.\n\nThis e-learning resource was developed at: University of Oslo",
+        "description": "Learning outcomes: Learn important skills in clinical communication, and practice when and how these should be applied.\n\nPedagogy: Contains videos, tasks in the form of quizzes and reflection, and curriculum-related text.Used in: A supplement to regular teaching in behavioral science in the medical programme in Oslo. The resource has different modules for different semesters and is adapted to the curriculum level. This e-learning resource was developed at: University of Oslo",
         "email": "arnstein.finset@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/atferdsfag/klinkom/index.html"
       },
@@ -448,9 +448,9 @@
     "submenuTitle": "Internal Medicine (Unspecified)",
     "layout": "default",
     "content": [
-     {
+       {
         "title": "Clinical communication",
-        "description": "Learning outcomes: Learn important skills in clinical communication, and practice when and how these should be applied.\n\nPedagogy: Contains videos, tasks in the form of quizzes and reflection, and curriculum-related text.\n\nUsed in: A supplement to regular teaching in behavioral science in the medical programme in Oslo. The resource has different modules for different semesters and is adapted to the curriculum level.\n\nThis e-learning resource was developed at: University of Oslo",
+        "description": "Learning outcomes: Learn important skills in clinical communication, and practice when and how these should be applied.\n\nPedagogy: Contains videos, tasks in the form of quizzes and reflection, and curriculum-related text.Used in: A supplement to regular teaching in behavioral science in the medical programme in Oslo. The resource has different modules for different semesters and is adapted to the curriculum level. This e-learning resource was developed at: University of Oslo",
         "email": "arnstein.finset@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/atferdsfag/klinkom/index.html"
       },
@@ -543,7 +543,7 @@
     "content": [
       {
         "title": "Clinical communication",
-        "description": "Learning outcomes: Learn important skills in clinical communication, and practice when and how these should be applied.\n\nPedagogy: Contains videos, tasks in the form of quizzes and reflection, and curriculum-related text.\n\nUsed in: A supplement to regular teaching in behavioral science in the medical programme in Oslo. The resource has different modules for different semesters and is adapted to the curriculum level.\n\nThis e-learning resource was developed at: University of Oslo",
+        "description": "Learning outcomes: Learn important skills in clinical communication, and practice when and how these should be applied.\n\nPedagogy: Contains videos, tasks in the form of quizzes and reflection, and curriculum-related text.Used in: A supplement to regular teaching in behavioral science in the medical programme in Oslo. The resource has different modules for different semesters and is adapted to the curriculum level. This e-learning resource was developed at: University of Oslo",
         "email": "arnstein.finset@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/atferdsfag/klinkom/index.html"
       },
@@ -643,7 +643,7 @@
     "content": [
       {
         "title": "Clinical communication",
-        "description": "Learning outcomes: Learn important skills in clinical communication, and practice when and how these should be applied.\n\nPedagogy: Contains videos, tasks in the form of quizzes and reflection, and curriculum-related text.\n\nUsed in: A supplement to regular teaching in behavioral science in the medical programme in Oslo. The resource has different modules for different semesters and is adapted to the curriculum level.\n\nThis e-learning resource was developed at: University of Oslo",
+        "description": "Learning outcomes: Learn important skills in clinical communication, and practice when and how these should be applied.\n\nPedagogy: Contains videos, tasks in the form of quizzes and reflection, and curriculum-related text.Used in: A supplement to regular teaching in behavioral science in the medical programme in Oslo. The resource has different modules for different semesters and is adapted to the curriculum level. This e-learning resource was developed at: University of Oslo",
         "email": "arnstein.finset@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/atferdsfag/klinkom/index.html"
       },
@@ -683,7 +683,7 @@
     "content": [
       {
         "title": "Clinical communication",
-        "description": "Learning outcomes: Learn important skills in clinical communication, and practice when and how these should be applied.\n\nPedagogy: Contains videos, tasks in the form of quizzes and reflection, and curriculum-related text.\n\nUsed in: A supplement to regular teaching in behavioral science in the medical programme in Oslo. The resource has different modules for different semesters and is adapted to the curriculum level.\n\nThis e-learning resource was developed at: University of Oslo",
+        "description": "Learning outcomes: Learn important skills in clinical communication, and practice when and how these should be applied.\n\nPedagogy: Contains videos, tasks in the form of quizzes and reflection, and curriculum-related text.Used in: A supplement to regular teaching in behavioral science in the medical programme in Oslo. The resource has different modules for different semesters and is adapted to the curriculum level. This e-learning resource was developed at: University of Oslo",
         "email": "arnstein.finset@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/atferdsfag/klinkom/index.html"
       },
@@ -839,7 +839,7 @@
     "content": [
       {
         "title": "Clinical communication",
-        "description": "Learning outcomes: Learn important skills in clinical communication, and practice when and how these should be applied.\n\nPedagogy: Contains videos, tasks in the form of quizzes and reflection, and curriculum-related text.\n\nUsed in: A supplement to regular teaching in behavioral science in the medical programme in Oslo. The resource has different modules for different semesters and is adapted to the curriculum level.\n\nThis e-learning resource was developed at: University of Oslo",
+        "description": "Learning outcomes: Learn important skills in clinical communication, and practice when and how these should be applied.\n\nPedagogy: Contains videos, tasks in the form of quizzes and reflection, and curriculum-related text.Used in: A supplement to regular teaching in behavioral science in the medical programme in Oslo. The resource has different modules for different semesters and is adapted to the curriculum level. This e-learning resource was developed at: University of Oslo",
         "email": "arnstein.finset@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/atferdsfag/klinkom/index.html"
       },
@@ -871,7 +871,7 @@
     "content": [
       {
         "title": "Clinical communication",
-        "description": "Learning outcomes: Learn important skills in clinical communication, and practice when and how these should be applied.\n\nPedagogy: Contains videos, tasks in the form of quizzes and reflection, and curriculum-related text.\n\nUsed in: A supplement to regular teaching in behavioral science in the medical programme in Oslo. The resource has different modules for different semesters and is adapted to the curriculum level.\n\nThis e-learning resource was developed at: University of Oslo",
+        "description": "Learning outcomes: Learn important skills in clinical communication, and practice when and how these should be applied.\n\nPedagogy: Contains videos, tasks in the form of quizzes and reflection, and curriculum-related text.Used in: A supplement to regular teaching in behavioral science in the medical programme in Oslo. The resource has different modules for different semesters and is adapted to the curriculum level. This e-learning resource was developed at: University of Oslo",
         "email": "arnstein.finset@medisin.uio.no",
         "link": "https://studmed.uio.no/elaring/fag/atferdsfag/klinkom/index.html"
       },
