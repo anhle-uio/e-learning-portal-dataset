@@ -130,6 +130,12 @@
     "submenuTitle": "Barnesykdommer",
     "layout": "default",
     "content": [
+      {
+        "title": "Pediatri",
+        "description": "The subject covers disease and deviations from normal growth and development in children from the foetal stage through to adulthood. Here you will find learning resources that support understanding and development of clinical skills, including practice questions and case histories.",
+        "email": "h.c.e.landsverk@medisin.uio.no",
+        "link": "https://uio.instructure.com/courses/60234"
+      },
        {
         "title": "Klinisk kommunikasjon",
         "description": "Læringsutbytte: Lære viktige ferdigheter innen klinisk kommunikasjon, samt øve på når og hvordan disse skal utøves.\nPedagogikk: Inneholder videofilmer, oppgaver i form av quiz og refleksjon, samt pensumrelatert tekst.nBrukes i: Er et supplement til ordinær undervisning i atferdsfag i medisinstudiet i Oslo. Ressursen har ulike moduler for de ulike semestrene og er tilpasset pensumnivå.",
