@@ -676,12 +676,7 @@
     "submenuTitle": "Nevrologi",
     "layout": "default",
     "content": [
-      {
-        "title": "Radiologi biletbase",
-        "description": "Ei samling bilete frå radiologiske undersøkingar, med skildringar av undersøkingane, skildringar av funn og drøftingar av rolla undersøkingane har i utgreiinga av ulike sjukdommar.\n\nLæringsutbyte: Finne rett biletutgreiing for pasientar med ulike symptom og sjukdommar. Lære å tolke undersøkingar med patologiske funn ved å samanlikne med normale undersøkingar.\n\nPedagogikk: Nyttig både i radiologiundervisning og som supplement til klinisk undervisning. Supplement til ei radiologilærebok. Førelesingar, læringsmål og planen for gruppeundervisninga er òg tilgjengelege på radiologi.net.\n\nBrukt i: Aktivt brukt i gruppeundervisning i modul 3 og 8. Biletemateriale i førelesingar er henta frå databasen.\n\nDenne e-læringsressursen vart utvikla ved: Universitetet i Oslo",
-        "email": "knut.lundin@medisin.uio.no",
-        "link": "https://prod-studmed.uio.no/radiologiark/"
-      },
+     
        {
         "title": "Nevrologiportalen",
         "description": "Læringsutbyte: Hjelpe studentar å forstå korleis ei nevrologisk undersøking blir gjennomført, demonstrere nokre spesialiserte undersøkingsteknikkar, og—gjennom videoar og bilete—vise nevrologiske utfall og sjukdommar, og slik bidra til forståing av nevrologiske sjukdommar og korleis nevrologiske utfall ser ut. Ressursen dekkjer òg dei vanlegaste nevrologiske prosedyrane. Pedagogikk: Eit supplement til lærebøker, førelesingar, klinikk, ferdigheitskurs i undersøkingsteknikk og klinisk smågruppeundervisning. Ressursane er samordna med læreplanen i nevrologi. Det blir lagt vekt på å lære terminologi og omgrep, presentere kliniske funn og systematisk undersøkingsteknikk med video. Virtuelle pasientar har som mål å betre klinisk resonnering og auke innsikt. Quiz og virtuelle pasientar støttar repetisjon og djupare forståing. Brukt i: Tilpassa medisinstudiet ved Universitetet i Oslo. Kan òg nyttast av norske studentar ved andre universitet i Noreg og i utlandet, utanlandske legar som ønskjer å arbeide i Noreg, eller anna helsepersonell. Føresetnader: Grunnleggjande medisinsk kunnskap. Denne e-læringsressursen vart utvikla ved: Universitetet i Oslo",
@@ -696,6 +691,12 @@
     "submenuTitle": "Nyresjukdommar",
     "layout": "default",
     "content": [
+      {
+        "title": "Radiologi biletbase",
+        "description": "Ei samling bilete frå radiologiske undersøkingar, med skildringar av undersøkingane, skildringar av funn og drøftingar av rolla undersøkingane har i utgreiinga av ulike sjukdommar.\n\nLæringsutbyte: Finne rett biletutgreiing for pasientar med ulike symptom og sjukdommar. Lære å tolke undersøkingar med patologiske funn ved å samanlikne med normale undersøkingar.\n\nPedagogikk: Nyttig både i radiologiundervisning og som supplement til klinisk undervisning. Supplement til ei radiologilærebok. Førelesingar, læringsmål og planen for gruppeundervisninga er òg tilgjengelege på radiologi.net.\n\nBrukt i: Aktivt brukt i gruppeundervisning i modul 3 og 8. Biletemateriale i førelesingar er henta frå databasen.\n\nDenne e-læringsressursen vart utvikla ved: Universitetet i Oslo",
+        "email": "knut.lundin@medisin.uio.no",
+        "link": "https://prod-studmed.uio.no/radiologiark/"
+      },
       {
         "title": "Nyresjukdommar",
         "description": "Denne e-læringsressursen er bygd opp rundt kasuistikker baserte på symptomdiagnosar som ei tilnærming til nyrefysiologi og patofysiologi. Programmet er meint som eit supplement til ordinær undervisning og lærebøker. Læringsutbyte: Hjelpe studentar å resonnere om og forstå kliniske og biokjemiske forstyrringar som oppstår i sjukdomsprosessar i strukturane i nyrene. Pedagogikk: Ressursen bruker bilete, tekst, animasjonar og interaktive kasusstudium («virtuelle pasientar»). Han knyter saman innhald frå basalfag, parakliniske fag og nefrologi i ei stor læringsmatrise. Kasusa dekkjer ikkje heile spekteret av nyresjukdommar og må brukast saman med nefrologilærebøker. Brukt i: Undervisning av medisinstudentar ved Universitetet i Oslo. Denne e-læringsressursen vart utvikla ved: Universitetet i Oslo",
