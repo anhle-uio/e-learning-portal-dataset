@@ -722,12 +722,6 @@
     "layout": "default",
     "content": [
       {
-        "title": "Radiology Image Database",
-        "description": "A collection of images from radiological examinations, with descriptions of the examinations, descriptions of findings, and discussions of the role of the examinations in the work-up of various diseases.\n\nLearning outcomes: Find the appropriate imaging work-up for patients with varying symptoms and diseases. Learn to interpret examinations with pathological findings by comparing with normal examinations.\n\nPedagogy: Useful both in radiology teaching and as a supplement to clinical teaching. A supplement to a radiology textbook. Lectures, teaching objectives and the plan for group teaching are also available at radiologi.net.\n\nUsed in: Actively used in group teaching in Module 3 and 8. Imaging material in lectures is drawn from the database.\n\nThis e-learning resource was developed at: University of Oslo",
-        "email": "knut.lundin@medisin.uio.no",
-        "link": "https://prod-studmed.uio.no/radiologiark/"
-      },
-      {
         "title": "The Neurology Portal",
         "description": "Learning outcomes: Help learners understand how a neurological examination is performed, demonstrate some specialized examination techniques, and—through videos and images—show neurological deficits and diseases, contributing to understanding of neurological diseases and what neurological deficits look like. Also covers the most common neurological procedures.\n\nPedagogy: A supplement to textbooks, lectures, clinics, skills courses in examination technique, and clinical small-group teaching. The resources are aligned with the neurology curriculum. Emphasis is placed on learning terminology and concepts, presenting clinical findings, and systematic examination technique with video. Virtual patients aim to improve clinical reasoning and increase insight. Quizzes and virtual patients support repetition and deeper understanding.\n\nUsed in: Adapted for the medical programme at the University of Oslo. Can also be used by Norwegian students at other universities in Norway and abroad, foreign doctors who want to work in Norway, or other healthcare personnel.\n\nPrerequisites: Basic medical knowledge.\n\nThis e-learning resource was developed at: University of Oslo",
         "email": "e.g.celius@medisin.uio.no",
